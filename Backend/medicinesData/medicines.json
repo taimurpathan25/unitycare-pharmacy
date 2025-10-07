@@ -1,0 +1,1353 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Paracetamol",
+        "category": "Medicine",
+        "price": 5.99,
+        "stock": 100,
+        "description": "Used to treat pain and fever.",
+        "image": "https://example.com/images/paracetamol.png"
+    },
+    {
+        "id": 2,
+        "name": "Vitamin C",
+        "category": "Vitamins and Supplements",
+        "price": 12.49,
+        "stock": 50,
+        "description": "Boosts immune system and overall health.",
+        "image": "https://example.com/images/vitamin_c.png"
+    },
+    {
+        "id": 3,
+        "name": "Aloe Vera Gel",
+        "category": "Skin Care",
+        "price": 8.99,
+        "stock": 75,
+        "description": "Soothes and moisturizes skin.",
+        "image": "https://example.com/images/aloe_vera_gel.png"
+    },
+    {
+        "id": 4,
+        "name": "Blood Pressure Monitor",
+        "category": "Health Devices",
+        "price": 45.00,
+        "stock": 20,
+        "description": "Digital monitor for tracking blood pressure.",
+        "image": "https://example.com/images/blood_pressure_monitor.png"
+    },
+    {
+        "id": 5,
+        "name": "Insulin Pen",
+        "category": "Diabetes Care",
+        "price": 25.00,
+        "stock": 30,
+        "description": "Pre-filled pen for insulin administration.",
+        "image": "https://example.com/images/insulin_pen.png"
+    },
+    {
+        "id": 6,
+        "name": "Hydrocortisone Cream",
+        "category": "Creams",
+        "price": 6.49,
+        "stock": 60,
+        "description": "Relieves itching and inflammation.",
+        "image": "https://example.com/images/hydrocortisone_cream.png"
+    },
+    {
+        "id": 7,
+        "name": "Multivitamin Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 15.99,
+        "stock": 40,
+        "description": "Comprehensive multivitamin for daily health.",
+        "image": "https://example.com/images/multivitamin_tablets.png"
+    },
+    {
+        "id": 8,
+        "name": "Face Moisturizer",
+        "category": "Skin Care",
+        "price": 14.99,
+        "stock": 80,
+        "description": "Hydrating moisturizer for all skin types.",
+        "image": "https://example.com/images/face_moisturizer.png"
+    },
+    {
+        "id": 9,
+        "name": "Digital Thermometer",
+        "category": "Health Devices",
+        "price": 10.00,
+        "stock": 25,
+        "description": "Quick and accurate temperature readings.",
+        "image": "https://example.com/images/digital_thermometer.png"
+    },
+    {
+        "id": 10,
+        "name": "Omega-3 Fish Oil",
+        "category": "Vitamins and Supplements",
+        "price": 18.99,
+        "stock": 55,
+        "description": "Supports heart and brain health.",
+        "image": "https://example.com/images/omega3_fish_oil.png"
+    },
+    {
+        "id": 11,
+        "name": "Antacid Tablets",
+        "category": "Medicine",
+        "price": 7.49,
+        "stock": 90,
+        "description": "Relieves heartburn and indigestion.",
+        "image": "https://example.com/images/antacid_tablets.png"
+    },
+    {
+        "id": 12,
+        "name": "Hand Sanitizer",
+        "category": "Health Care",
+        "price": 3.99,
+        "stock": 150,
+        "description": "Kills germs and bacteria on hands.",
+        "image": "https://example.com/images/hand_sanitizer.png"
+    },  
+    {
+        "id": 13,
+        "name": "Cough Syrup",
+        "category": "Medicine",
+        "price": 9.99,
+        "stock": 70,
+        "description": "Soothes cough and throat irritation.",
+        "image": "https://example.com/images/cough_syrup.png"
+    },
+    {
+        "id": 14,
+        "name": "Sunscreen Lotion",
+        "category": "Skin Care",
+        "price": 11.99,
+        "stock": 65,
+        "description": "Protects skin from harmful UV rays.",
+        "image": "https://example.com/images/sunscreen_lotion.png"
+    },
+    {
+        "id": 15,
+        "name": "First Aid Kit",
+        "category": "Health Care",
+        "price": 29.99,
+        "stock": 15,
+        "description": "Essential supplies for minor injuries.",
+        "image": "https://example.com/images/first_aid_kit.png"
+    },
+    {
+        "id": 16,
+        "name": "Calcium Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 13.49,
+        "stock": 45,
+        "description": "Supports bone health and strength.",
+        "image": "https://example.com/images/calcium_tablets.png"
+    },
+    {
+        "id": 17,
+        "name": "Antibiotic Ointment",
+        "category": "Creams",
+        "price": 5.49,
+        "stock": 85,
+        "description": "Prevents infection in minor cuts and scrapes.",
+        "image": "https://example.com/images/antibiotic_ointment.png"
+    },
+    {
+        "id": 18,
+        "name": "Glucose Meter",
+        "category": "Diabetes Care",
+        "price": 35.00,
+        "stock": 22,
+        "description": "Measures blood sugar levels accurately.",
+        "image": "https://example.com/images/glucose_meter.png"
+    },
+    {
+        "id": 19,
+        "name": "Lip Balm",
+        "category": "Skin Care",
+        "price": 4.99,
+        "stock": 120,
+        "description": "Moisturizes and protects lips from dryness.",
+        "image": "https://example.com/images/lip_balm.png"
+    },
+    {
+        "id": 20,
+        "name": "Electrolyte Drink Mix",
+        "category": "Health Care",
+        "price": 6.99,
+        "stock": 60,
+        "description": "Replenishes electrolytes and hydration.",
+        "image": "https://example.com/images/electrolyte_drink_mix.png"
+    },
+    {
+        "id": 21,
+        "name": "Zinc Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 10.99,
+        "stock": 50,
+        "description": "Supports immune function and wound healing.",
+        "image": "https://example.com/images/zinc_tablets.png"
+    },
+    {
+        "id": 22,
+        "name": "Antifungal Cream",
+        "category": "Creams",
+        "price": 7.49,
+        "stock": 70,
+        "description": "Treats fungal infections on skin.",
+        "image": "https://example.com/images/antifungal_cream.png"
+    },
+    {
+        "id": 23,
+        "name": "Nasal Spray",
+        "category": "Medicine",
+        "price": 8.99,
+        "stock": 80,
+        "description": "Relieves nasal congestion and allergies.",
+        "image": "https://example.com/images/nasal_spray.png"
+    },
+    {
+        "id": 24,
+        "name": "Moisturizing Lotion",
+        "category": "Skin Care",
+        "price": 9.99,
+        "stock": 90,
+        "description": "Hydrates and softens skin.",
+        "image": "https://example.com/images/moisturizing_lotion.png"
+    },
+    {
+        "id": 25,
+        "name": "Thermometer Strips",
+        "category": "Health Devices",
+        "price": 4.49,
+        "stock": 100,
+        "description": "Non-contact forehead thermometer strips.",
+        "image": "https://example.com/images/thermometer_strips.png"
+    },
+    {
+        "id": 26,
+        "name": "Magnesium Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 14.99,
+        "stock": 40,
+        "description": "Supports muscle and nerve function.",
+        "image": "https://example.com/images/magnesium_supplements.png"
+    },
+    {
+        "id": 27,
+        "name": "Hydrating Face Mask",
+        "category": "Skin Care",
+        "price": 12.49,
+        "stock": 55,
+        "description": "Deeply hydrates and revitalizes skin.",
+        "image": "https://example.com/images/hydrating_face_mask.png"
+    },
+    {
+        "id": 28,
+        "name": "Pain Relief Gel",
+        "category": "Creams",
+        "price": 11.99,
+        "stock": 65,
+        "description": "Provides relief from muscle and joint pain.",
+        "image": "https://example.com/images/pain_relief_gel.png"
+    },
+    {
+        "id": 29,
+        "name": "Diabetic Test Strips",
+        "category": "Diabetes Care",
+        "price": 20.00,
+        "stock": 35,
+        "description": "Compatible test strips for glucose meters.",
+        "image": "https://example.com/images/diabetic_test_strips.png"
+    },
+    {
+        "id": 30,
+        "name": "Antihistamine Tablets",
+        "category": "Medicine",
+        "price": 9.49,
+        "stock": 75,
+        "description": "Relieves allergy symptoms such as sneezing and itching.",
+        "image": "https://example.com/images/antihistamine_tablets.png"
+    },
+    {
+        "id": 31,
+        "name": "Retinol Serum",
+        "category": "Skin Care",
+        "price": 19.99,
+        "stock": 50,
+        "description": "Anti-aging serum that improves skin texture.",
+        "image": "https://example.com/images/retinol_serum.png"
+    },
+    {
+        "id": 32,
+        "name": "Pulse Oximeter",
+        "category": "Health Devices",
+        "price": 30.00,
+        "stock": 18,
+        "description": "Measures blood oxygen levels and pulse rate.",
+        "image": "https://example.com/images/pulse_oximeter.png"
+    },
+    {
+        "id": 33,
+        "name": "Biotin Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 16.49,
+        "stock": 45,
+        "description": "Supports healthy hair, skin, and nails.",
+        "image": "https://example.com/images/biotin_supplements.png"
+    },
+    {
+        "id": 34,
+        "name": "Calamine Lotion",
+        "category": "Creams",
+        "price": 6.99,
+        "stock": 80,
+        "description": "Soothes itching and skin irritation.",
+        "image": "https://example.com/images/calamine_lotion.png"
+    },
+    {
+        "id": 35,
+        "name": "Diabetes Insulin Pump",
+        "category": "Diabetes Care",
+        "price": 250.00,
+        "stock": 10,
+        "description": "Advanced insulin delivery system for diabetes management.",
+        "image": "https://example.com/images/diabetes_insulin_pump.png"
+    },
+    {
+        "id": 36,
+        "name": "Loratadine Tablets",
+        "category": "Medicine",
+        "price": 8.49,
+        "stock": 85,
+        "description": "Non-drowsy antihistamine for allergy relief.",
+        "image": "https://example.com/images/loratadine_tablets.png"
+    },
+    {
+        "id": 37,
+        "name": "Charcoal Face Wash",
+        "category": "Skin Care",
+        "price": 10.99,
+        "stock": 70,
+        "description": "Cleanses and detoxifies skin with activated charcoal.",
+        "image": "https://example.com/images/charcoal_face_wash.png"
+    },
+    {
+        "id": 38,
+        "name": "Infrared Thermometer",
+        "category": "Health Devices",
+        "price": 25.00,
+        "stock": 20,
+        "description": "Non-contact thermometer for quick temperature checks.",
+        "image": "https://example.com/images/infrared_thermometer.png"
+    },
+    {
+        "id": 39,
+        "name": "Folic Acid Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 9.99,
+        "stock": 60,
+        "description": "Supports prenatal health and cell growth.",
+        "image": "https://example.com/images/folic_acid_tablets.png"
+    },
+    {
+        "id": 40,
+        "name": "Eczema Relief Cream",
+        "category": "Creams",
+        "price": 12.49,
+        "stock": 55,
+        "description": "Moisturizes and soothes eczema-prone skin.",
+        "image": "https://example.com/images/eczema_relief_cream.png"
+    },
+    {
+        "id": 41,
+        "name": "Continuous Glucose Monitor",
+        "category": "Diabetes Care",
+        "price": 300.00,
+        "stock": 8,
+        "description": "Real-time glucose monitoring system for diabetes management.",
+        "image": "https://example.com/images/continuous_glucose_monitor.png"
+    },
+    {
+        "id": 42,
+        "name": "Ibuprofen Tablets",
+        "category": "Medicine",
+        "price": 6.49,
+        "stock": 95,
+        "description": "Nonsteroidal anti-inflammatory drug for pain relief.",
+        "image": "https://example.com/images/ibuprofen_tablets.png"
+    },
+    {
+        "id": 43,
+        "name": "Hyaluronic Acid Serum",
+        "category": "Skin Care",
+        "price": 18.99,
+        "stock": 60,
+        "description": "Hydrating serum that plumps and smooths skin.",
+        "image": "https://example.com/images/hyaluronic_acid_serum.png"
+    },
+    {
+        "id": 44,
+        "name": "Digital Blood Glucose Meter",
+        "category": "Health Devices",
+        "price": 40.00,
+        "stock": 15,
+        "description": "Accurate blood glucose monitoring device.",
+        "image": "https://example.com/images/digital_blood_glucose_meter.png"
+    },
+    {
+        "id": 45,
+        "name": "Vitamin D3 Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 11.49,
+        "stock": 70,
+        "description": "Supports bone health and immune function.",
+        "image": "https://example.com/images/vitamin_d3_supplements.png"
+    },
+    {
+        "id": 46,
+        "name": "Retinol Night Cream",
+        "category": "Creams",
+        "price": 20.99,
+        "stock": 50,
+        "description": "Anti-aging night cream with retinol for skin renewal.",
+        "image": "https://example.com/images/retinol_night_cream.png"
+    },
+    {
+        "id": 47,
+        "name": "Diabetes Foot Care Cream",
+        "category": "Diabetes Care",
+        "price": 14.99,
+        "stock": 40,
+        "description": "Moisturizes and protects feet for diabetic patients.",
+        "image": "https://example.com/images/diabetes_foot_care_cream.png"
+    },
+    {
+        "id": 48,
+        "name": "Cetirizine Tablets",
+        "category": "Medicine",
+        "price": 7.99,
+        "stock": 80,
+        "description": "Fast-acting antihistamine for allergy relief.",
+        "image": "https://example.com/images/cetirizine_tablets.png"
+    },
+    {
+        "id": 49,
+        "name": "Vitamin B12 Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 13.99,
+        "stock": 55,
+        "description": "Supports energy metabolism and nervous system health.",
+        "image": "https://example.com/images/vitamin_b12_supplements.png"
+    },
+    {
+        "id": 50,
+        "name": "Aspirin Tablets",
+        "category": "Medicine",
+        "price": 5.49,
+        "stock": 100,
+        "description": "Used to reduce pain, fever, and inflammation.",
+        "image": "https://example.com/images/aspirin_tablets.png"
+    },
+    {
+        "id": 51,
+        "name": "Collagen Peptides",
+        "category": "Vitamins and Supplements",
+        "price": 22.99,
+        "stock": 30,
+        "description": "Supports skin elasticity and joint health.",
+        "image": "https://example.com/images/collagen_peptides.png"
+    },
+    {
+        "id": 52,
+        "name": "Tea Tree Oil Cream",
+        "category": "Creams",
+        "price": 9.49,
+        "stock": 75,
+        "description": "Natural cream for acne and skin irritations.",
+        "image": "https://example.com/images/tea_tree_oil_cream.png"
+    },
+    {
+        "id": 53,
+        "name": "Diabetes Meal Replacement Shake",
+        "category": "Diabetes Care",
+        "price": 19.99,
+        "stock": 25,
+        "description": "Nutritionally balanced shake for diabetes management.",
+        "image": "https://example.com/images/diabetes_meal_replacement_shake.png"
+    },
+    {
+        "id": 54,
+        "name": "Melatonin Tablets",
+        "category": "Medicine",
+        "price": 8.49,
+        "stock": 60,
+        "description": "Helps regulate sleep-wake cycles.",
+        "image": "https://example.com/images/melatonin_tablets.png"
+    },
+    {
+        "id": 55,
+        "name": "Niacinamide Serum",
+        "category": "Skin Care",
+        "price": 17.99,
+        "stock": 50,
+        "description": "Brightens skin and reduces inflammation.",
+        "image": "https://example.com/images/niacinamide_serum.png"
+    },
+    {
+        "id": 56,
+        "name": "Digital Weight Scale",
+        "category": "Health Devices",
+        "price": 35.00,
+        "stock": 20,
+        "description": "Accurate digital scale for body weight measurement.",
+        "image": "https://example.com/images/digital_weight_scale.png"
+    },
+    {
+        "id": 57,
+        "name": "Zinc Oxide Sunscreen",
+        "category": "Skin Care",
+        "price": 15.99,
+        "stock": 70,
+        "description": "Broad-spectrum sunscreen with zinc oxide.",
+        "image": "https://example.com/images/zinc_oxide_sunscreen.png"
+    },
+    {
+        "id": 58,
+        "name": "Magnesium Cream",
+        "category": "Creams",
+        "price": 10.49,
+        "stock": 65,
+        "description": "Topical cream for muscle relaxation and pain relief.",
+        "image": "https://example.com/images/magnesium_cream.png"
+    },
+    {
+        "id": 59,
+        "name": "Diabetes Management App Subscription",
+        "category": "Diabetes Care",
+        "price": 9.99,
+        "stock": 999,
+        "description": "Monthly subscription for diabetes tracking and management app.",
+        "image": "https://example.com/images/diabetes_management_app.png"
+    },
+    {
+        "id": 60,
+        "name": "Probiotic Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 21.99,
+        "stock": 40,
+        "description": "Supports digestive health and gut flora balance.",
+        "image": "https://example.com/images/probiotic_supplements.png"
+    },
+    {
+        "id": 61,
+        "name": "Cortisone Cream",
+        "category": "Creams",
+        "price": 8.99,
+        "stock": 80,
+        "description": "Reduces inflammation and itching from skin conditions.",
+        "image": "https://example.com/images/cortisone_cream.png"
+    },
+    {
+        "id": 62,
+        "name": "Diabetes Insulin Syringes",
+        "category": "Diabetes Care",
+        "price": 15.00,
+        "stock": 50,
+        "description": "Sterile syringes for insulin administration.",
+        "image": "https://example.com/images/diabetes_insulin_syringes.png"
+    },
+    {
+        "id": 63,
+        "name": "L-Lysine Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 12.49,
+        "stock": 55,
+        "description": "Supports immune function and collagen production.",
+        "image": "https://example.com/images/l_lysine_tablets.png"
+    },
+    {
+        "id": 64,
+        "name": "Glycolic Acid Toner",
+        "category": "Skin Care",
+        "price": 14.99,
+        "stock": 60,
+        "description": "Exfoliating toner that improves skin texture.",
+        "image": "https://example.com/images/glycolic_acid_toner.png"
+    },
+    {
+        "id": 65,
+        "name": "Digital Blood Pressure Cuff",
+        "category": "Health Devices",
+        "price": 50.00,
+        "stock": 15,
+        "description": "Automatic blood pressure monitor with cuff.",
+        "image": "https://example.com/images/digital_blood_pressure_cuff.png"
+    },
+    {
+        "id": 66,
+        "name": "Vitamin E Oil",
+        "category": "Skin Care",
+        "price": 13.49,
+        "stock": 70,
+        "description": "Nourishing oil for skin hydration and repair.",
+        "image": "https://example.com/images/vitamin_e_oil.png"
+    },
+    {
+        "id": 67,
+        "name": "Caffeine Tablets",
+        "category": "Medicine",
+        "price": 7.99,
+        "stock": 90,
+        "description": "Boosts energy and alertness.",
+        "image": "https://example.com/images/caffeine_tablets.png"
+    },
+    {
+        "id": 68,
+        "name": "Diabetes Carb Counting Guide",
+        "category": "Diabetes Care",
+        "price": 5.99,
+        "stock": 100,
+        "description": "Comprehensive guide for carbohydrate counting in diabetes management.",
+        "image": "https://example.com/images/diabetes_carb_counting_guide.png"
+    },
+    {
+        "id": 69,
+        "name": "Ashwagandha Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 18.99,
+        "stock": 45,
+        "description": "Adaptogenic herb that supports stress relief and overall well-being.",
+        "image": "https://example.com/images/ashwagandha_supplements.png"
+    },
+    {
+        "id": 70,
+        "name": "Salicylic Acid Cleanser",
+        "category": "Skin Care",
+        "price": 11.99,
+        "stock": 65,
+        "description": "Deep-cleansing facial cleanser with salicylic acid for acne-prone skin.",
+        "image": "https://example.com/images/salicylic_acid_cleanser.png"
+    },
+    {
+        "id": 71,
+        "name": "Digital Ear Thermometer",
+        "category": "Health Devices",
+        "price": 28.00,
+        "stock": 18,
+        "description": "Quick and accurate ear thermometer for temperature measurement.",
+        "image": "https://example.com/images/digital_ear_thermometer.png"
+    },
+    {
+        "id": 72,
+        "name": "Vitamin K2 Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 14.49,
+        "stock": 50,
+        "description": "Supports bone health and cardiovascular function.",
+        "image": "https://example.com/images/vitamin_k2_supplements.png"
+    },
+    {
+        "id": 73,
+        "name": "Cica Cream",
+        "category": "Creams",
+        "price": 10.99,
+        "stock": 70,
+        "description": "Soothing cream with centella asiatica for skin repair.",
+        "image": "https://example.com/images/cica_cream.png"
+    },
+    {
+        "id": 74,
+        "name": "Diabetes Glucose Tablets",
+        "category": "Diabetes Care",
+        "price": 8.99,
+        "stock": 80,
+        "description": "Fast-acting glucose tablets for hypoglycemia management.",
+        "image": "https://example.com/images/diabetes_glucose_tablets.png"
+    },
+    {
+        "id": 75,
+        "name": "Echinacea Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 16.49,
+        "stock": 55,
+        "description": "Supports immune health and reduces cold symptoms.",
+        "image": "https://example.com/images/echinacea_supplements.png"
+    },
+    {
+        "id": 76,
+        "name": "Ginseng Capsules",
+        "category": "Vitamins and Supplements",
+        "price": 19.99,
+        "stock": 40,
+        "description": "Boosts energy and enhances mental clarity.",
+        "image": "https://example.com/images/ginseng_capsules.png"
+    },
+    {
+        "id": 77,
+        "name": "Coconut Oil",
+        "category": "Skin Care",
+        "price": 9.49,
+        "stock": 75,
+        "description": "Moisturizes skin and hair with natural coconut oil.",
+        "image": "https://example.com/images/coconut_oil.png"
+    },
+    {
+        "id": 78,
+        "name": "Digital Fitness Tracker",
+        "category": "Health Devices",
+        "price": 60.00,
+        "stock": 12,
+        "description": "Tracks steps, heart rate, and sleep patterns.",
+        "image": "https://example.com/images/digital_fitness_tracker.png"
+    },
+    {
+        "id": 79,
+        "name": "Vitamin A Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 10.99,
+        "stock": 60,
+        "description": "Supports vision and immune function.",
+        "image": "https://example.com/images/vitamin_a_supplements.png"
+    },
+    {
+        "id": 80,
+        "name": "SPF 50 Sunscreen Stick",
+        "category": "Skin Care",
+        "price": 12.49,
+        "stock": 70,
+        "description": "Convenient sunscreen stick for on-the-go protection.",
+        "image": "https://example.com/images/spf50_sunscreen_stick.png"
+    },
+    {
+        "id": 81,
+        "name": "Cinnamon Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 14.99,
+        "stock": 50,
+        "description": "Supports blood sugar regulation and metabolic health.",
+        "image": "https://example.com/images/cinnamon_supplements.png"
+    },
+    {
+        "id": 82,
+        "name": "Benzoyl Peroxide Gel",
+        "category": "Creams",
+        "price": 9.99,
+        "stock": 80,
+        "description": "Acne treatment gel with benzoyl peroxide.",
+        "image": "https://example.com/images/benzoyl_peroxide_gel.png"
+    },
+    {
+        "id": 83,
+        "name": "Diabetes Recipe Book",
+        "category": "Diabetes Care",
+        "price": 12.99,
+        "stock": 100,
+        "description": "Healthy and delicious recipes for diabetes management.",
+        "image": "https://example.com/images/diabetes_recipe_book.png"
+    },
+    {
+        "id": 84,
+        "name": "L-Theanine Capsules",
+        "category": "Vitamins and Supplements",
+        "price": 15.49,
+        "stock": 45,
+        "description": "Promotes relaxation and reduces stress without drowsiness.",
+        "image": "https://example.com/images/l_theanine_capsules.png"
+    },
+    {
+        "id": 85,
+        "name": "Glycine Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 13.99,
+        "stock": 50,
+        "description": "Supports sleep quality and cognitive function.",
+        "image": "https://example.com/images/glycine_supplements.png"
+    },
+    {
+        "id": 86,
+        "name": "Jojoba Oil",
+        "category": "Skin Care",
+        "price": 11.49,
+        "stock": 70,
+        "description": "Moisturizes skin and hair with natural jojoba oil.",
+        "image": "https://example.com/images/jojoba_oil.png"
+    },
+    {
+        "id": 87,
+        "name": "Digital Sleep Monitor",
+        "category": "Health Devices",
+        "price": 55.00,
+        "stock": 15,
+        "description": "Monitors sleep patterns and quality.",
+        "image": "https://example.com/images/digital_sleep_monitor.png"
+    },
+    {
+        "id": 88,
+        "name": "Vitamin C Serum",
+        "category": "Skin Care",
+        "price": 21.99,
+        "stock": 60,
+        "description": "Brightening serum with vitamin C for radiant skin.",
+        "image": "https://example.com/images/vitamin_c_serum.png"
+    },
+    {
+        "id": 89,
+        "name": "Melatonin Gummies",
+        "category": "Medicine",
+        "price": 9.49,
+        "stock": 80,
+        "description": "Tasty gummies to help regulate sleep-wake cycles.",
+        "image": "https://example.com/images/melatonin_gummies.png"
+    },
+    {
+        "id": 90,
+        "name": "Diabetes Insulin Cooling Case",
+        "category": "Diabetes Care",
+        "price": 18.99,
+        "stock": 30,
+        "description": "Portable cooling case for insulin storage.",
+        "image": "https://example.com/images/diabetes_insulin_cooling_case.png"
+    },
+    {
+        "id": 91,
+        "name": "Spirulina Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 17.49,
+        "stock": 50,
+        "description": "Nutrient-dense algae supplement for overall health.",
+        "image": "https://example.com/images/spirulina_tablets.png"
+    },
+    {
+        "id": 92,
+        "name": "Azelaic Acid Cream",
+        "category": "Creams",
+        "price": 14.99,
+        "stock": 65,
+        "description": "Treats acne and rosacea with azelaic acid.",
+        "image": "https://example.com/images/azelaic_acid_cream.png"
+    },
+    {
+        "id": 93,
+        "name": "Diabetes Foot Massager",
+        "category": "Diabetes Care",
+        "price": 45.00,
+        "stock": 20,
+        "description": "Electric foot massager designed for diabetic foot care.",
+        "image": "https://example.com/images/diabetes_foot_massager.png"
+    },
+    {
+        "id": 94,
+        "name": "L-Arginine Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 16.99,
+        "stock": 40,
+        "description": "Supports cardiovascular health and blood flow.",
+        "image": "https://example.com/images/l_arginine_supplements.png"
+    },
+    {
+        "id": 95,
+        "name": "Salicylic Acid Pads",
+        "category": "Skin Care",
+        "price": 12.49,
+        "stock": 70,
+        "description": "Exfoliating pads with salicylic acid for acne-prone skin.",
+        "image": "https://example.com/images/salicylic_acid_pads.png"
+    },
+    {
+        "id": 96,
+        "name": "Digital Body Fat Scale",
+        "category": "Health Devices",
+        "price": 70.00,
+        "stock": 10,
+        "description": "Measures body fat percentage and weight.",
+        "image": "https://example.com/images/digital_body_fat_scale.png"
+    },
+    {
+        "id": 97,
+        "name": "Vitamin B6 Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 11.99,
+        "stock": 60,
+        "description": "Supports brain health and energy metabolism.",
+        "image": "https://example.com/images/vitamin_b6_supplements.png"
+    },
+    {
+        "id": 98,
+        "name": "SPF 30 Tinted Moisturizer",
+        "category": "Skin Care",
+        "price": 16.49,
+        "stock": 55,
+        "description": "Moisturizer with SPF 30 and light tint for daily use.",
+        "image": "https://example.com/images/spf30_tinted_moisturizer.png"
+    },
+    {
+        "id": 99,
+        "name": "Caffeine Eye Cream",
+        "category": "Creams",
+        "price": 13.99,
+        "stock": 70,
+        "description": "Reduces puffiness and dark circles with caffeine.",
+        "image": "https://example.com/images/caffeine_eye_cream.png"
+    },
+    {
+        "id": 100,
+        "name": "Diabetes Support Group Membership",
+        "category": "Diabetes Care",
+        "price": 20.00,
+        "stock": 999,
+        "description": "Monthly membership for access to diabetes support groups and resources.",
+        "image": "https://example.com/images/diabetes_support_group_membership.png"
+    },
+    {
+        "id": 101,
+        "name": "Vitamin C Powder",
+        "category": "Vitamins and Supplements",
+        "price": 12.49,
+        "stock": 50,
+        "description": "Boosts immune system and overall health.",
+        "image": "https://example.com/images/vitamin_c.png"
+    },
+    {
+        "id": 102,
+        "name": "Hyaluronic Acid Moisturizer",
+        "category": "Skin Care",
+        "price": 19.99,
+        "stock": 60,
+        "description": "Hydrating moisturizer with hyaluronic acid for plump skin.",
+        "image": "https://example.com/images/hyaluronic_acid_moisturizer.png"
+    },
+    {
+        "id": 103,
+        "name": "Acetaminophen Tablets",
+        "category": "Medicine",
+        "price": 5.99,
+        "stock": 100,
+        "description": "Pain reliever and fever reducer.",
+        "image": "https://example.com/images/acetaminophen_tablets.png"
+    },
+    {
+        "id": 104,
+        "name": "Diabetes Educational DVD",
+        "category": "Diabetes Care",
+        "price": 14.99,
+        "stock": 100,
+        "description": "Informative DVD on diabetes management and lifestyle.",
+        "image": "https://example.com/images/diabetes_educational_dvd.png"
+    },
+    {
+        "id": 105,
+        "name": "Lutein Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 15.49,
+        "stock": 45,
+        "description": "Supports eye health and vision.",
+        "image": "https://example.com/images/lutein_supplements.png"
+    },
+    {
+        "id": 106,
+        "name": "Glycolic Acid Serum",
+        "category": "Skin Care",
+        "price": 18.99,
+        "stock": 55,
+        "description": "Exfoliating serum with glycolic acid for smoother skin.",
+        "image": "https://example.com/images/glycolic_acid_serum.png"
+    },
+    {
+        "id": 107,
+        "name": "Digital Heart Rate Monitor",
+        "category": "Health Devices",
+        "price": 45.00,
+        "stock": 20,
+        "description": "Monitors heart rate during exercise and daily activities.",
+        "image": "https://example.com/images/digital_heart_rate_monitor.png"
+    },
+    {
+        "id": 108,
+        "name": "Vitamin B Complex",
+        "category": "Vitamins and Supplements",
+        "price": 13.99,
+        "stock": 60,
+        "description": "Supports energy metabolism and overall health.",
+        "image": "https://example.com/images/vitamin_b_complex.png"
+    },
+    {
+        "id": 109,
+        "name": "SPF 15 Daily Moisturizer",
+        "category": "Skin Care",
+        "price": 14.49,
+        "stock": 70,
+        "description": "Lightweight daily moisturizer with SPF 15 protection.",
+        "image": "https://example.com/images/spf15_daily_moisturizer.png"
+    },
+    {
+        "id": 110,
+        "name": "Caffeine Mouthwash",
+        "category": "Medicine",
+        "price": 7.49,
+        "stock": 80,
+        "description": "Energizing mouthwash with caffeine for fresh breath.",
+        "image": "https://example.com/images/caffeine_mouthwash.png"
+    },
+    {
+        "id": 111,
+        "name": "Diabetes Management Journal",
+        "category": "Diabetes Care",
+        "price": 9.99,
+        "stock": 100,
+        "description": "Journal for tracking blood sugar levels and diabetes management.",
+        "image": "https://example.com/images/diabetes_management_journal.png"
+    },
+    {
+        "id": 112,
+        "name": "Chlorella Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 16.49,
+        "stock": 50,
+        "description": "Nutrient-rich algae supplement for detoxification and overall health.",
+        "image": "https://example.com/images/chlorella_tablets.png"
+    },
+    {
+        "id": 113,
+        "name": "Retinol Eye Cream",
+        "category": "Creams",
+        "price": 15.99,
+        "stock": 65,
+        "description": "Anti-aging eye cream with retinol for reducing fine lines and wrinkles.",
+        "image": "https://example.com/images/retinol_eye_cream.png"
+    },
+    {
+        "id": 114,
+        "name": "Diabetes Snack Bars",
+        "category": "Diabetes Care",
+        "price": 11.99,
+        "stock": 40,
+        "description": "Healthy snack bars designed for diabetes management.",
+        "image": "https://example.com/images/diabetes_snack_bars.png"
+    },
+    {
+        "id": 115,
+        "name": "L-Carnitine Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 14.99,
+        "stock": 45,
+        "description": "Supports energy production and fat metabolism.",
+        "image": "https://example.com/images/l_carnitine_supplements.png"
+    },
+    {
+        "id": 116,
+        "name": "Salicylic Acid Cleanser",
+        "category": "Skin Care",
+        "price": 12.99,
+        "stock": 60,
+        "description": "Deep-cleansing facial cleanser with salicylic acid for acne-prone skin.",
+        "image": "https://example.com/images/salicylic_acid_cleanser2.png"
+    },
+    {
+        "id": 117,
+        "name": "Digital Thermometer with Fever Alert",
+        "category": "Health Devices",
+        "price": 30.00,
+        "stock": 15,
+        "description": "Digital thermometer with fever alert and memory function.",
+        "image": "https://example.com/images/digital_thermometer_with_fever_alert.png"
+    },
+    {
+        "id": 118,
+        "name": "Vitamin K1 Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 12.49,
+        "stock": 50,
+        "description": "Supports blood clotting and bone health.",
+        "image": "https://example.com/images/vitamin_k1_supplements.png"
+    },
+    {
+        "id": 119,
+        "name": "SPF 50 Mineral Sunscreen",
+        "category": "Skin Care",
+        "price": 18.99,
+        "stock": 70,
+        "description": "Broad-spectrum mineral sunscreen with SPF 50 protection.",
+        "image": "https://example.com/images/spf50_mineral_sunscreen.png"
+    },
+    {
+        "id": 120,
+        "name": "Caffeine Lip Balm",
+        "category": "Creams",
+        "price": 6.99,
+        "stock": 80,
+        "description": "Energizing lip balm with caffeine for hydrated lips.",
+        "image": "https://example.com/images/caffeine_lip_balm.png"
+    },
+    {
+        "id": 121,
+        "name": "Diabetes Support Hotline Subscription",
+        "category": "Diabetes Care",
+        "price": 15.00,
+        "stock": 999,
+        "description": "Monthly subscription for access to a diabetes support hotline.",
+        "image": "https://example.com/images/diabetes_support_hotline_subscription.png"
+    },
+    {
+        "id": 122,
+        "name": "Electrolyte Drink Mix",
+        "category": "Vitamins and Supplements",
+        "price": 9.99,
+        "stock": 60,
+        "description": "Replenishes electrolytes and supports hydration.",
+        "image": "https://example.com/images/electrolyte_drink_mix.png"
+    },
+    {
+        "id": 123,
+        "name": "Niacin Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 13.49,
+        "stock": 50,
+        "description": "Supports cardiovascular health and energy metabolism.",
+        "image": "https://example.com/images/niacin_supplements.png"
+    },
+    {
+        "id": 124,
+        "name": "Glycolic Acid Toner Pads",
+        "category": "Skin Care",
+        "price": 15.99,
+        "stock": 65,
+        "description": "Exfoliating toner pads with glycolic acid for smoother skin.",
+        "image": "https://example.com/images/glycolic_acid_toner_pads.png"
+    },
+    {
+        "id": 125,
+        "name": "Digital Glucometer with Bluetooth",
+        "category": "Health Devices",
+        "price": 55.00,
+        "stock": 12,
+        "description": "Bluetooth-enabled glucometer for easy diabetes management.",
+        "image": "https://example.com/images/digital_glucometer_with_bluetooth.png"
+    },
+    {
+        "id": 126,
+        "name": "Vitamin B5 Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 11.49,
+        "stock": 60,
+        "description": "Supports skin health and energy metabolism.",
+        "image": "https://example.com/images/vitamin_b5_supplements.png"
+    },
+    {
+        "id": 127,
+        "name": "SPF 30 Tinted Sunscreen",
+        "category": "Skin Care",
+        "price": 17.49,
+        "stock": 70,
+        "description": "Tinted sunscreen with SPF 30 for daily protection.",
+        "image": "https://example.com/images/spf30_tinted_sunscreen.png"
+    },
+    {
+        "id": 128,
+        "name": "Caffeine Body Lotion",
+        "category": "Creams",
+        "price": 14.99,
+        "stock": 75,
+        "description": "Energizing body lotion with caffeine for smooth skin.",
+        "image": "https://example.com/images/caffeine_body_lotion.png"
+    },
+    {
+        "id": 129,
+        "name": "Diabetes Online Course Subscription",
+        "category": "Diabetes Care",
+        "price": 25.00,
+        "stock": 999,
+        "description": "Monthly subscription for access to online diabetes management courses.",
+        "image": "https://example.com/images/diabetes_online_course_subscription.png"
+    },
+    {
+        "id": 130,
+        "name": "Electrolyte Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 10.49,
+        "stock": 65,
+        "description": "Effervescent tablets to replenish electrolytes and support hydration.",
+        "image": "https://example.com/images/electrolyte_tablets.png"
+    },
+    {
+        "id": 131,
+        "name": "Riboflavin (Vitamin B2) Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 12.99,
+        "stock": 55,
+        "description": "Supports energy production and skin health.",
+        "image": "https://example.com/images/riboflavin_vitamin_b2_supplements.png"
+    },
+    {
+        "id": 132,
+        "name": "Mandelic Acid Serum",
+        "category": "Skin Care",
+        "price": 19.49,
+        "stock": 60,
+        "description": "Gentle exfoliating serum with mandelic acid for smoother skin.",
+        "image": "https://example.com/images/mandelic_acid_serum.png"
+    },
+    {
+        "id": 133,
+        "name": "Digital Pulse Oximeter",
+        "category": "Health Devices",
+        "price": 40.00,
+        "stock": 18,
+        "description": "Measures blood oxygen levels and pulse rate.",
+        "image": "https://example.com/images/digital_pulse_oximeter.png"
+    },
+    {
+        "id": 134,
+        "name": "Vitamin B7 (Biotin) Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 14.49,
+        "stock": 50,
+        "description": "Supports healthy hair, skin, and nails.",
+        "image": "https://example.com/images/vitamin_b7_biotin_supplements.png"
+    },
+    {
+        "id": 135,
+        "name": "SPF 50+ Sunscreen Spray",
+        "category": "Skin Care",
+        "price": 16.99,
+        "stock": 70,
+        "description": "Broad-spectrum sunscreen spray with SPF 50+ protection.",
+        "image": "https://example.com/images/spf50_sunscreen_spray.png"
+    },
+    {
+        "id": 136,
+        "name": "Caffeine Shower Gel",
+        "category": "Creams",
+        "price": 8.99,
+        "stock": 80,
+        "description": "Energizing shower gel with caffeine for a refreshing cleanse.",
+        "image": "https://example.com/images/caffeine_shower_gel.png"
+    },
+    {
+        "id": 137,
+        "name": "Diabetes Mobile App Subscription",
+        "category": "Diabetes Care",
+        "price": 12.00,
+        "stock": 999,
+        "description": "Monthly subscription for access to a diabetes management mobile app.",
+        "image": "https://example.com/images/diabetes_mobile_app_subscription.png"
+    },
+    {
+        "id": 138,
+        "name": "Electrolyte Powder Packets",
+        "category": "Vitamins and Supplements",
+        "price": 11.99,
+        "stock": 60,
+        "description": "Convenient powder packets to replenish electrolytes and support hydration.",
+        "image": "https://example.com/images/electrolyte_powder_packets.png"
+    },
+    {
+        "id": 139,
+        "name": "Thiamine (Vitamin B1) Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 10.49,
+        "stock": 55,
+        "description": "Supports energy metabolism and nervous system health.",
+        "image": "https://example.com/images/thiamine_vitamin_b1_supplements.png"
+    },
+    {
+        "id": 140,
+        "name": "Lactic Acid Toner",
+        "category": "Skin Care",
+        "price": 17.99,
+        "stock": 65,
+        "description": "Exfoliating toner with lactic acid for smoother skin.",
+        "image": "https://example.com/images/lactic_acid_toner.png"
+    },
+    {
+        "id": 141,
+        "name": "Digital Thermometer with Backlight",
+        "category": "Health Devices",
+        "price": 25.00,
+        "stock": 20,
+        "description": "Digital thermometer with backlight for easy reading in low light.",
+        "image": "https://example.com/images/digital_thermometer_with_backlight.png"
+    },
+    {
+        "id": 142,
+        "name": "Vitamin B3 (Niacin) Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 12.49,
+        "stock": 50,
+        "description": "Supports cardiovascular health and energy metabolism.",
+        "image": "https://example.com/images/vitamin_b3_niacin_supplements.png"
+    },
+    {
+        "id": 143,
+        "name": "SPF 30+ Sunscreen Lotion",
+        "category": "Skin Care",
+        "price": 15.99,
+        "stock": 70,
+        "description": "Broad-spectrum sunscreen lotion with SPF 30+ protection.",
+        "image": "https://example.com/images/spf30_sunscreen_lotion.png"
+    },
+    {
+        "id": 144,
+        "name": "Caffeine Face Mask",
+        "category": "Creams",
+        "price": 12.49,
+        "stock": 75,
+        "description": "Energizing face mask with caffeine for refreshed skin.",
+        "image": "https://example.com/images/caffeine_face_mask.png"
+    },
+    {
+        "id": 145,
+        "name": "Diabetes Meal Planning Guide",
+        "category": "Diabetes Care",
+        "price": 10.99,
+        "stock": 100,
+        "description": "Comprehensive guide for meal planning in diabetes management.",
+        "image": "https://example.com/images/diabetes_meal_planning_guide.png"
+    },
+    {
+        "id": 146,
+        "name": "Electrolyte Hydration Tablets",
+        "category": "Vitamins and Supplements",
+        "price": 9.49,
+        "stock": 65,
+        "description": "Effervescent tablets to support hydration and replenish electrolytes.",
+        "image": "https://example.com/images/electrolyte_hydration_tablets.png"
+    },
+    {
+        "id": 147,
+        "name": "Pantothenic Acid (Vitamin B5) Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 11.99,
+        "stock": 55,
+        "description": "Supports skin health and energy metabolism.",
+        "image": "https://example.com/images/pantothenic_acid_vitamin_b5_supplements.png"
+    },
+    {
+        "id": 148,
+        "name": "Mandelic Acid Cleanser",
+        "category": "Skin Care",
+        "price": 16.49,
+        "stock": 60,
+        "description": "Gentle facial cleanser with mandelic acid for smoother skin.",
+        "image": "https://example.com/images/mandelic_acid_cleanser.png"
+    },
+    {
+        "id": 149,
+        "name": "Digital Thermometer with Flexible Tip",
+        "category": "Health Devices",
+        "price": 20.00,
+        "stock": 20,
+        "description": "Digital thermometer with flexible tip for comfortable temperature measurement.",
+        "image": "https://example.com/images/digital_thermometer_with_flexible_tip.png"
+    },
+    {
+        "id": 150,
+        "name": "Vitamin B9 (Folate) Supplements",
+        "category": "Vitamins and Supplements",
+        "price": 13.49,
+        "stock": 50,
+        "description": "Supports cell growth and metabolism.",
+        "image": "https://example.com/images/vitamin_b9_folate_supplements.png"
+    }
+]

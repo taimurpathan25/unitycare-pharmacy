@@ -1,0 +1,338 @@
+[
+    {
+        "id"      : 1,
+        "name"    : "Anti-Cold Syrup",
+        "image"   : "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg",
+        "variants": [
+            {
+                "id":101,
+                "brand": "Corex Cough Syrup",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":102,
+                "brand": "Grilinctus Syrup",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":103,
+                "brand": "Ascoril Cough Syrup",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":104,
+                "brand": "Benadryl Cough Syrup",
+                "price": 125,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":105,
+                "brand": "Torex Cough Syrup",
+                "price": 115,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":106,
+                "brand": "Zedex Syrup",
+                "price": 118,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":107,
+                "brand": "D Cold Cough Syrup",
+                "price": 122,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":108,
+                "brand": "TusQ Syrup",
+                "price": 119,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":109,
+                "brand": "Alex Syrup",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    },
+    {
+        "id"      : 2,
+        "name"    : "Herbal/Ayurvedic Cough Syrups",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":201,
+                "brand": "Dabur Honitus Cough Syrup",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":202,
+                "brand": "Baidyanath Kasamrit Herbal Cough Syrup",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":203,
+                "brand": "Himalaya Koflet Syrup",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    },
+    {
+        "id"      : 3,
+        "name"    : "Pediatric Cough Syrups",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":301,
+                "brand": "Pediacare Cough Syrup",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":302,
+                "brand": "Little Remedies Cough Syrup",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":303,
+                "brand": "Zarbee's Naturals Cough Syrup",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    },
+    {
+        "id"      : 4,
+        "name"    : "Antibiotic Syrups",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":401,
+                "brand": "Cefixime And Ofloxacin Oral Suspension ",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":402,
+                "brand": "Amoxicillin And Clavulanate Potassium Oral Suspension",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":403,
+                "brand": "Azithromycin Oral Suspension",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":404,
+                "brand": "Cefpodoxime Proxetil Oral Suspension",
+                "price": 125,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":405,
+                "brand": "Cefdinir Oral Suspension",
+                "price": 115,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":406,
+                "brand": "Cefalexin Oral Suspension",
+                "price": 118,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":407,
+                "brand": "Cefuroxime Axetil Oral Suspension",
+                "price": 122,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":408,
+                "brand": "Cefaclor Oral Suspension",
+                "price": 119,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":409,
+                "brand": "Ceftriaxone And Sulbactam Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":410,
+                "brand": "Cefotaxime And Sulbactam Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":411,
+                "brand": "Cefoperazone And Sulbactam Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":412,
+                "brand": "Piperacillin And Tazobactam Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":413,
+                "brand": "Meropenem And Vaborbactam Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":414,
+                "brand": "Imipenem And Cilastatin Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":415,
+                "brand": "Ertapenem Injection",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    }
+    ,{
+        "id"      : 5,
+        "name"    : "Cough Syrups for Allergies",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":501,
+                "brand": "Zyrtec Syrup",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":502,
+                "brand": "Claritin Syrup",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":503,
+                "brand": "Allegra Syrup",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    },
+    {
+        "id"      : 6,
+        "name"    : "Anti-Allergic Syrups",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":601,
+                "brand": "Levocetirizine syrup",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":602,
+                "brand": "Hydroxyzine syrup",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":603,
+                "brand": "Chlorpheniramine Maleate syrup",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":604,
+                "brand": "Fexofenadine syrup",
+                "price": 125,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":605,
+                "brand": "Cetirizine syrup",
+                "price": 115,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":606,
+                "brand": "Diphenhydramine syrup",
+                "price": 118,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":607,
+                "brand": "Promethazine syrup",
+                "price": 122,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":608,
+                "brand": "Azelastine syrup",
+                "price": 119,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":609,
+                "brand": "Olopatadine syrup",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    }
+]

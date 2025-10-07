@@ -1,0 +1,647 @@
+[
+    {
+        "id"      : 1,
+        "name"    : "Aceclofenac & Rabeprazole Capsules",
+        "image"   : "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg",
+        "variants": [
+            {
+                "id":101,
+                "brand": "Altardaya",
+                "price": 120,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg"
+            },
+            {
+                "id":102,
+                "brand": "Cipla",
+                "price": 110,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":103,
+                "brand": "Sun Pharma",
+                "price": 130,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":104,
+                "brand": "Dr. Reddy's",
+                "price": 125,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":105,
+                "brand": "Lupin",
+                "price": 115,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":106,
+                "brand": "Zydus Cadila",
+                "price": 118,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":107,
+                "brand": "Torrent Pharma",
+                "price": 122,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":108,
+                "brand": "Alkem Labs",
+                "price": 119,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":109,
+                "brand": "Glenmark",
+                "price": 117,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":110,
+                "brand": "Cadila Healthcare",
+                "price": 121,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":111,
+                "brand": "Mankind Pharma",
+                "price": 116,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":112,
+                "brand": "Emcure Pharma",
+                "price": 113,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":113,
+                "brand": "Wockhardt",
+                "price": 114,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },   
+            {
+                "id":114,
+                "brand": "Biocon",
+                "price": 112,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":115,
+                "brand": "Ajanta Pharma",
+                "price": 111,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":116,
+                "brand": "Sun Pharma",
+                "price": 129,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            },
+            {
+                "id":117,
+                "brand": "Dr. Reddy's",
+                "price": 124,
+                "uses": "Pain relief and inflammation reduction",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/aceclofenac-rabeprazole-capsules-500x500.jpg"
+            }
+        ]
+    },
+    {
+        "id"      : 2,
+        "name"    : "Amoxicillin & Clavulanic Acid Capsules",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":201,
+                "brand": "Augmentin",
+                "price": 150,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":202,
+                "brand": "Cipla",
+                "price": 140,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":203,
+                "brand": "Sun Pharma",
+                "price": 155,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":204,
+                "brand": "Dr. Reddy's",
+                "price": 145,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":205,
+                "brand": "Lupin",
+                "price": 138,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+    },
+            {
+                "id":206,
+                "brand": "Zydus Cadila",
+                "price": 142,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":207,
+                "brand": "Torrent Pharma",
+                "price": 148,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":208,
+                "brand": "Alkem Labs",
+                "price": 141,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":209,
+                "brand": "Glenmark",
+                "price": 139,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":210,
+                "brand": "Cadila Healthcare",
+                "price": 147,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":211,
+                "brand": "Mankind Pharma",
+                "price": 136,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":212,
+                "brand": "Emcure Pharma",
+                "price": 134,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":213,
+                "brand": "Wockhardt",
+                "price": 135,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },   
+            {
+                "id":214,
+                "brand": "Biocon",
+                "price": 133,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":215,
+                "brand": "Ajanta Pharma",
+                "price": 132,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":216,
+                "brand": "Sun Pharma",
+                "price": 154,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+            {
+                "id":217,
+                "brand": "Dr. Reddy's",
+                "price": 146,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"
+            },
+             {
+                "id":218,
+                "brand": "Cipla",
+                "price": 141,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"   
+             },
+                {
+                    "id":219,
+                    "brand": "Lupin",
+                    "price": 137,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":220,
+                    "brand": "Zydus Cadila",
+                    "price": 143,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":221,
+                    "brand": "Torrent Pharma",
+                    "price": 149,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":222,
+                    "brand": "Alkem Labs",
+                    "price": 140,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":223,
+                    "brand": "Glenmark",
+                    "price": 138,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":224,
+                    "brand": "Cadila Healthcare",
+                    "price": 146,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":225,
+                    "brand": "Mankind Pharma",
+                    "price": 135,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":226,
+                    "brand": "Emcure Pharma",
+                    "price": 133,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":227,
+                    "brand": "Wockhardt",
+                    "price": 134,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },   
+                {
+                    "id":228,
+                    "brand": "Biocon",
+                    "price": 132,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":229,
+                    "brand": "Ajanta Pharma",
+                    "price": 131,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                },
+                {
+                    "id":230,
+                    "brand": "Augmentin",
+                    "price": 151,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/amoxicillin-clavulanic-acid-capsules-500x500.jpg"       
+                }
+]
+},
+ {
+        "id"      : 3,
+        "name"    : "Cefixime Capsules",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":301,
+                "brand": "Suprax",
+                "price": 180,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":302,
+                "brand": "Cipla",
+                "price": 170,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":303,
+                "brand": "Sun Pharma",
+                "price": 185,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":304,
+                "brand": "Dr. Reddy's",
+                "price": 175,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":305,
+                "brand": "Lupin",
+                "price": 168,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":306,
+                "brand": "Zydus Cadila",
+                "price": 172,       
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":307,
+                "brand": "Torrent Pharma",
+                "price": 178,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":308,
+                "brand": "Alkem Labs",
+                "price": 171,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":309,
+                "brand": "Glenmark",
+                "price": 169,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":310,
+                "brand": "Cadila Healthcare",
+                "price": 177,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":311,
+                "brand": "Mankind Pharma",
+                "price": 166,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":312,
+                "brand": "Emcure Pharma",       
+                "price": 164,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":313,   
+                "brand": "Wockhardt",
+                "price": 165,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":314,
+                "brand": "Biocon",
+                "price": 163,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":315,
+                "brand": "Ajanta Pharma",
+                "price": 162,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":316,
+                "brand": "Sun Pharma",
+                "price": 184,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+            {
+                "id":317,
+                "brand": "Dr. Reddy's",
+                "price": 176,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+            },
+             {
+                "id":318,
+                "brand": "Cipla",
+                "price": 171,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"   
+             },
+                {
+                    "id":319,
+                    "brand": "Lupin",
+                    "price": 167,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id": 320,
+                    "brand": "Zydus Cadila",
+                    "price": 173,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":321,
+                    "brand": "Torrent Pharma",
+                    "price": 179,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":322,
+                    "brand": "Alkem Labs",
+                    "price": 170,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":323,
+                    "brand": "Glenmark",
+                    "price": 168,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":324,
+                    "brand": "Cadila Healthcare",
+                    "price": 176,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":325,
+                    "brand": "Mankind Pharma",
+                    "price": 165,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":326,
+                    "brand": "Emcure Pharma",
+                    "price": 163,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":327,
+                    "brand": "Wockhardt",
+                    "price": 164,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },   
+                {
+                    "id":328,
+                    "brand": "Biocon",
+                    "price": 162,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":329,
+                    "brand": "Ajanta Pharma",
+                    "price": 161,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":330,
+                    "brand": "Suprax",
+                    "price": 181,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"       
+                },
+                {
+                    "id":331,
+                    "brand": "Cipla",
+                    "price": 172,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+                },
+                {
+                    "id":332,
+                    "brand": "Sun Pharma",
+                    "price": 186,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+                },
+                {
+                    "id":333,
+                    "brand": "Dr. Reddy's",
+                    "price": 174,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+                },
+                {
+                    "id":334,
+                    "brand": "Lupin",
+                    "price": 169,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+                },
+                {
+                    "id":335,
+                    "brand": "Zydus Cadila",
+                    "price": 173,
+                    "uses": "Bacterial infections treatment",
+                    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/cefixime-capsules-500x500.jpg"
+                }
+        ]
+ },
+ {
+        "id"      : 4,
+        "name"    : "Doxycycline Capsules",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg",
+        "variants": [
+            {
+                "id":401,
+                "brand": "Doxylin",
+                "price": 100,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg"
+            },
+            {
+                "id":402,
+                "brand": "Cipla",
+                "price": 90,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg"
+            },
+            {
+                "id":403,
+                "brand": "Sun Pharma",
+                "price": 95,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg"
+            },
+            {
+                "id":404,
+                "brand": "Dr. Reddy's",
+                "price": 92,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg"
+            },
+            {
+                "id":405,
+                "brand": "Lupin",
+                "price": 88,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg"
+            },
+            {
+                "id":406,
+                "brand": "Zydus Cadila",    
+                "price": 91,
+                "uses": "Bacterial infections treatment",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/GL/TC/MC/12345678/doxycycline-capsules-500x500.jpg"
+            }
+        ]
+ }
+]
+    

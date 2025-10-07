@@ -1,0 +1,2407 @@
+[
+    {
+        "id"      : 1,
+        "name"    : "Paracetamol",
+        "image"   : "https://www.biofieldpharma.com/wp-content/uploads/2023/06/BIOFIELD-PYREGEM-TAB-1-scaled.jpg",
+        "variants": [
+            {
+        "id"      : 101,
+        "brand"   : "Crocemol-650",
+        "price"   : 25,
+        "uses"    : "Fever, Pain Relief",
+        "image"   : "https://i.pinimg.com/736x/c9/44/a5/c944a5bd20565f22b5be6e988425e48b.jpg"  
+    },
+    {
+        "id"      : 102,
+        "brand"   : "Dolo-650",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://www.medstown.com/wp-content/uploads/2025/06/dolo-650-paracetamol-tablets-1000x1000-1.webp"  
+    },
+    {
+        "id"      : 103,
+        "brand"   : "Panadol",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://www.dvago.pk/_next/image?url=https%3A%2F%2Fdvago-assets.s3.ap-southeast-1.amazonaws.com%2FProductsImages%2FPanadol%2520Regular%2520600x600.jpg&w=1920&q=50"  
+    },
+    {
+        "id"      : 104,
+        "brand"   : "Calpol",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://tiimg.tistatic.com/fp/3/007/768/calpol-paracetamol-tablets-ip-500-mg-15-x-3-x-15-tablets-308.jpg"  
+    },
+    {
+        "id"      : 105,
+        "brand"   : "Tylenol",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://medsgo.ph/images/detailed/26/Tylenol-650mg-Tab.jpg"  
+    },
+    {
+        "id"      : 106,
+        "brand"   : "Dolex",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://doktorm.az/uploads/images/202407/image_870x_669a127726f9f.webp"  
+    },
+    {
+        "id"      : 107,
+        "brand"   : "Doliprane",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://guptaagency.in/storage/abbot/img-20230522-174700.jpg"  
+    },
+    {
+        "id"      : 108,
+        "brand"   : "Disprin",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://meds.myupchar.com/105027/disprin-tablet-0.webp"  
+    },
+    {
+        "id"      : 109,
+        "brand"   : "Hedex",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://www.orionpharmabd.com/public/product_img/hedex.jpg"  
+    },
+    {
+        "id"      : 110,
+        "brand"   : "Paracip-650",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "/images/https://ayurvivek.com/wp-content/uploads/2024/09/paracip-650.jpg"  
+    },
+    {
+        "id"      : 111,
+        "brand"   : "Panamax",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://static.mercdn.net/item/detail/orig/photos/m22255268835_8.jpg?1691296823"  
+    },
+    {
+        "id"      : 112,
+        "brand"   : "DOCFLAM-650",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://www.doctrislifesciences.com/wp-content/uploads/2024/01/DSC00181.png"  
+    },
+    {
+        "id"      : 113,
+        "brand"   : "FEVNIL-500",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/11/362196607/NO/DN/CC/101678228/fevnil-500-paracetamol-tablet.png"  
+    },
+    {
+        "id"      : 114,
+        "brand"   : "DIPTAMP-650",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://www.abibapharmacia.com/wp-content/uploads/2022/08/Diptamp-650-Tab.jpg"  
+    },
+    {
+        "id"      : 115,
+        "brand"   : "Nicloace-P",
+        "price"   : 30,
+        "uses"    : "Fever, Headache",
+        "image"   : "https://company.pharmahopers.com/assets/images/products/94c11-NICLOCE--P.jpeg"  
+    }
+        ]
+    },
+
+    {
+       "id"       : 2,
+       "name"     : "Artemether & Lumefantine", 
+        "image"   : "https://5.imimg.com/data5/SELLER/Default/2025/2/485627385/PE/QA/PF/7034457/artemether-20mg-and-lumefantrine-120mg-tablets.jpg",
+       "variants" : [
+{
+        "id"    : 201,
+        "brand" : "Leeford",
+        "price" : 171,
+        "uses"  : "Cold, Cough Relief",
+        "image" : "https://i.pinimg.com/1200x/66/9e/d6/669ed69bb8625f9500b2e43d60461e52.jpg"  
+    },
+    {
+        "id":202,
+        "brand":"Leether-LF",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":203,
+        "brand":"Coartem",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":204,
+        "brand":"the innovator",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":205,
+        "brand":"Artether L",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":206,
+        "brand":"Combither",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":207,
+        "brand":"Lumet",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":208,
+        "brand":"Lumether",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":209,
+        "brand":"Arte Plus CD",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    },
+    {
+        "id":210,
+        "brand":"Falcinil-LF",
+        "price" : 131,
+        "uses"  : "Cold, Cough Relief",
+        "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/LEETHER-LF-2-scaled.jpg"
+
+    }
+       ]
+    },
+    
+    {
+        "id": 3,
+    "name": "Azithromycin",
+            "image"   : "https://5.imimg.com/data5/SELLER/Default/2023/7/322505200/NB/XK/IU/190216606/azithromycin-tablets.jpg",
+    "variants": [
+{
+    "id":301,
+    "brand": "Asselcin-500",
+    "price": 80,
+    "uses": "Bacterial Infections",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/322505200/NB/XK/IU/190216606/azithromycin-tablets.jpg"
+  }
+    ]
+    },
+    {
+        "id": 4,
+      "name": "Glimepride",
+     "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/330393631/TI/VS/UA/557330/glimepiride-tablets.jpg",
+    "variants": [
+{
+    "id":401,
+    "brand": "Azulix-2",
+    "price": 80,
+    "uses": "Diabetes Care",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/330393631/TI/VS/UA/557330/glimepiride-tablets.jpg"
+  }
+    ]
+    },
+    {
+        "id":5,
+        "name":"Atorvastin",
+        "image":"https://wellonapharma.com/admincms/product_img/product_resize_img/atorvastatin-20mg-tablets_1619445277.jpg",
+        "variants":[
+            {
+                "id":501,
+                "brand":"Aztor Tab",
+                "price":50,
+                "uses":"Low Cholestrol & Reduce Heart Desease Risk"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Loaratadine",
+        "image":"https://images.apollo247.in/pub/media/catalog/product/A/L/ALA0008_1_1.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%20400w",
+        "variants":[
+            {
+                "id": 601,
+                "brand":"Alaspan",
+                "price":50,
+                "uses":"Reduce Allergic Symtoms",
+                "image":"https://images.apollo247.in/pub/media/catalog/product/A/L/ALA0008_1_1.jpg?tr=q-80,f-webp,w-400,dpr-3,c-at_max%20400w"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"Ambroxol & Loratadine",
+        "image":"https://images.apollo247.in/pub/media/catalog/product/A/L/ALA0013_1_1.jpg",
+        "variants":[
+            {
+                "id":701,
+                "brand":"Alaspan-AM",
+                "price":50,
+                "uses":"Reduce Allergic Symtoms",
+                "image":"https://images.apollo247.in/pub/media/catalog/product/A/L/ALA0013_1_1.jpg"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"Aceclofenac",
+        "image":"https://www.albionbd.com/wp-content/uploads/2021/08/Aceclofenac-Tablet.jpg",
+        "variants":[
+            {
+                "id":801,
+                "brand":"LXFEN-MR",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://www.lxir.in/wp-content/uploads/2019/02/White-Business-webinar-promotion-Facebook-post.png"
+            },
+            {
+                "id":803,
+                "brand":"Acyton-P",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://www.biobrickpharma.com/wp-content/uploads/2018/01/ACYTON-P-10.jpg"
+            },
+            {
+                "id":804,
+                "brand":"Achenix-AP",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://cpimg.tistatic.com/04690199/b/8/Aceclofenac-Paracetamol-Tablet.jpeg"
+            },
+            {
+                "id":805,
+                "brand":"Achenix-AP",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://www.krishlarpharma.com/wp-content/uploads/2019/12/KRITFEN-SP-tablet.jpg"
+            },
+            {
+                "id":806,
+                "brand":"Aculum-P",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://www.abibapharmacia.com/wp-content/uploads/2019/10/Aculum-P-1-scaled.jpg"
+            },
+            {
+                "id":807,
+                "brand":"Aceloflam Plus",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"
+            },
+            {
+                "id":808,
+                "brand":"Aceloflam-100",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"
+            },
+            {
+                "id":809,
+                "brand":"Aceloflam-200",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":810,
+                "brand":"Aceloflam-400",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":811,
+                "brand":"Aceloflam-600",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":812,
+                "brand":"Aceloflam-800",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":813,
+                "brand":"Aceloflam-1000",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":814,
+                "brand":"Aceloflam-MR",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":815,
+                "brand":"Aceloflam-XL",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":816,
+                "brand":"Aceloflam-DSR",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":817,
+                "brand":"Aceloflam-AP",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":818,
+                "brand":"Aceloflam-P",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":819,
+                "brand":"Aceloflam-PD",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":820,
+                "brand":"Aceloflam-PM",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":821,
+                "brand":"Aceloflam-PN",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":822,
+                "brand":"Aceloflam-PH",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":823,
+                "brand":"Aceloflam-PF",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":824,
+                "brand":"Aceloflam-PG",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":825,
+                "brand":"Aceloflam-PK",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":826,
+                "brand":"Aceloflam-PI",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":827,
+                "brand":"Aceloflam-PJ",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":828,
+                "brand":"Aceloflam-PB",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":829,
+                "brand":"Aceloflam-PA",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":830,
+                "brand":"Aceloflam-PE",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":831,
+                "brand":"Aceloflam-PC",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":832,
+                "brand":"Aceloflam-PQ",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },  
+            {
+                "id":833,
+                "brand":"Aceloflam-PR",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":834,
+                "brand":"Aceloflam-PT",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":835,
+                "brand":"Aceloflam-PU",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":836,
+                "brand":"Aceloflam-PV",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"Alfuzosin",
+        "image":"",
+        "variants":[
+            {
+                "id":901,
+                "brand":"Alfoo",
+                "price":50,
+                "uses":"Urination Difficulty",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name":"Sitagliptin",
+        "image":"",
+        "variants":[
+            {
+                "id":1001,
+                "brand":"Alsita Tab",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus"
+            }
+        ]
+    },
+    {
+        "id":11,
+        "name":"Cetrizine",
+        "image":"",
+        "variants":[
+            {
+                "id":1101,
+                "brand":"Alerid Tab",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":12,
+        "name":"Amoxycillin & Clavulanic Acid",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1201,
+                "brand":"Abott",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://cdn.farmako.in/inventory/images/1304f45edddc603ed1d6d194eb8f99d746b69d28/2b3960fc92c57d3eebdf97ede57ac2139a0c09f5.png"
+            },
+            {
+                "id":1202,
+                "brand":"Augmentin",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://medecify.com/storages/2025/03/IMG-298-scaled.jpeg"
+            },
+            {
+                "id":1203,
+                "brand":"Augmentin-625",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://core.mymedicalshop.com/media/products/E3A5C5Cproduct5C5C35C5C35C5C33262_f355cad6.jpg"
+            },
+            {
+                "id":1204,
+                "brand":"Augmentin-1G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1205,
+                "brand":"Amoclav-625",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1206,
+                "brand":"Amoclav-1G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1207,
+                "brand":"Clavam-625",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1208,
+                "brand":"Clavam-1G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1209,
+                "brand":"Clavulin-625",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1210,
+                "brand":"Clavulin-1G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1211,
+                "brand":"Amoxyclav-625",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1212,
+                "brand":"Amoxyclav-1G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1213,
+                "brand":"Amoxiklav-625",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1214,
+                "brand":"Amoxiklav-1G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1215,
+                "brand":"Amoxiklav-1.2G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1216,
+                "brand":"Amoxiklav-2000",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1217,
+                "brand":"Amoxiklav-2G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1218,
+                "brand":"Amoxiklav-2.2G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1219,
+                "brand":"Amoxiklav-2000",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1220,
+                "brand":"Amoxiklav-2G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1221,
+                "brand":"Amoxiklav-2.2G",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/RC/JS/GL/5569441/amoxicillin-clavulanic-acid-1g-tablet-500x500.jpg"
+            },
+            {
+                "id":1222,
+                "brand":"Afeslin-1000 Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1223,
+                "brand":"Afeslin-625 Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1224,
+                "brand":"Afeslin-1.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1225,
+                "brand":"Afeslin-2000 Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1226,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1227,
+                "brand":"Afeslin-2000 Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1228,
+                "brand":"Afeslin-2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1229,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1230,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1231,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1232,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1233,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1234,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1235,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            },
+            {
+                "id":1236,
+                "brand":"Afeslin-2.2G Duo",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg"
+            }
+        
+        ]
+    },
+    {
+        "id":13,
+        "name":"Desloratadine",
+        "image":"",
+        "variants":[
+            {
+                "id":1301,
+                "brand":"Allerde Tab",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1302,
+                "brand":"Nucope",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1303,
+                "brand":"Des-OD",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1304,
+                "brand":"Dezlorid",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1305,
+                "brand":"Clarinex & Clarinex RediTabs",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1306,
+                "brand":"Aerius",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1307,
+                "brand":"Neoclarityn",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1308,
+                "brand":"Dazit M",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1309,
+                "brand":"Azomyr",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1310,
+                "brand":"Aerinaze",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1311,
+                "brand":"Claritin",
+                "price":50,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1312,
+                "brand":"Neoloridin",
+                "price":82.8,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1313,
+                "brand":"Loreta",
+                "price":82.8,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1314,
+                "brand":"Veromon 5mg Tablet",
+                "price":35,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1315,
+                "brand":"Deslor",
+                "price":159,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1316,
+                "brand":"Dazit",
+                "price":159,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1317,
+                "brand":"Dest",
+                "price":22,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1318,
+                "brand":"De -Argella",
+                "price":60,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1319,
+                "brand":"Rodera",
+                "price":31.18,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1320,
+                "brand":"Rodera",
+                "price":31.18,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1321,
+                "brand":"Rodera",
+                "price":31.18,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1322,
+                "brand":"Delorta",
+                "price":59.5,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1323,
+                "brand":"Alora",
+                "price":59.5,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1324,
+                "brand":"D Loratin",
+                "price":28.75,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1325,
+                "brand":"Biomon",
+                "price":28.75,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1326,
+                "brand":"D -Loratin FC",
+                "price":30.76,
+                "uses":"Allergic Support",
+                "image":""
+            },
+            {
+                "id":1327,
+                "brand":"Neoloridin Repitab",
+                "price":51.2,
+                "uses":"Allergic Support",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":14,
+        "name":"Telmisartan & Amlodipine & Hydroclorothiazide",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1401,
+                "brand":"Amlosafe Tab",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1402,
+                "brand":"Amlosafe 3D",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1403,
+                "brand":"Amlosafe AT",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1404,
+                "brand":"Amlosafe TM",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1405,
+                "brand":"Amlokind",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1406,
+                "brand":"Amlokind Beta",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1407,
+                "brand":"Amlokind TM",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1408,
+                "brand":"Amlokind H",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1409,
+                "brand":"Amlokind L",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1411,
+                "brand":"Amlokind AT",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1412,
+                "brand":"Amlip-5",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1413,
+                "brand":"Amijoy",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1414,
+                "brand":"Amlogard-2.5",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            },
+            {
+                "id":1415,
+                "brand":"Amlogard-5",
+                "price":50,
+                "uses":"Hypertension",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":15,
+        "name":"Amisulpride",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1501,
+                "brand":"Amijoy",
+                "price":50,
+                "uses":"A Mental Disorder",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":16,
+        "name":"Diloxanide",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1601,
+                "brand":"Amicline",
+                "price":50,
+                "uses":"Worm Infection & Intestinal Infection",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":17,
+        "name":"Amlodipine & Valsartan",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1701,
+                "brand":"Amlosafe VA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1702,
+                "brand":"Amlokind VA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1703,
+                "brand":"Amlip-5V",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1704,
+                "brand":"Amlogard-5V",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":18,
+        "name":"Amlodipine & Olmesartan",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1801,
+                "brand":"Amlosafe OA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1802,
+                "brand":"Amlokind OA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1803,
+                "brand":"Amlip-5O",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1804,
+                "brand":"Amlogard-5O",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":19,
+        "name":"Amlodipine & Hydrochlorothiazide",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":1901,
+                "brand":"Amlosafe H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1902,
+                "brand":"Amlokind H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1903,
+                "brand":"Amlip-5H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":1904,
+                "brand":"Amlogard-5H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":20,
+        "name":"Amlodipine",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2001,
+                "brand":"Amlokind",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":2002,
+                "brand":"Amlogard",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":2003,
+                "brand":"Amlip",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":2004,
+                "brand":"Amijoy",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":2005,
+                "brand":"Amlosafe",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":21,
+        "name":"Acarbose",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2101,
+                "brand":"Acarbose-50",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2102,
+                "brand":"Acarbose-100",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":22,
+        "name":"Adefovir",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2201,
+                "brand":"Adefovir-10",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":23,
+        "name":"Acyclovir",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2301,
+                "brand":"Acivir-200",
+                "price":50,
+                "uses":"Viral Infection",
+                "image":""
+            },
+            {
+                "id":2302,
+                "brand":"Acivir-400",
+                "price":50,
+                "uses":"Viral Infection",
+                "image":""
+            },
+            {
+                "id":2303,
+                "brand":"Acivir-800",
+                "price":50,
+                "uses":"Viral Infection",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":24,
+        "name":"Adapalene & Benzoyl Peroxide",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2401,
+                "brand":"Acne-5",
+                "price":50,
+                "uses":"Acne Treatment",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":25,
+        "name":"Aceclofenac",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2501,
+                "brand":"Aceloflam",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":252,
+                "brand":"Aceloflam-D",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":253,
+                "brand":"Aceloflam-MR",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":254,
+                "brand":"Aceloflam-XL",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":255,
+                "brand":"Aceloflam-P",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            },
+            {
+                "id":256,
+                "brand":"Aceloflam-PG",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":26,
+        "name":"Acelofenac & Paracetamol & Serratiopeptidase",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2601,
+                "brand":"Aceloflam-PS",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            }
+        ]
+    },
+    {
+        "id":27,
+        "name":"Acelofenac & Paracetamol",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2701,
+                "brand":"Aceloflam-PA",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            }
+        ]
+    },
+    {
+        "id":28,
+        "name":"Acelofenac & Paracetamol & Rabeprazole",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2801,
+                "brand":"Aceloflam-PV",
+                "price":50,
+                "uses":"Reduce Pain & Inflamation",
+                "image":"https://5.imimg.com/data5/SELLER/Default/2022/7/LU/OY/UI/4559651/aceloflam-plus-tablet-500x500.jpg"        
+            }
+        ]
+    },
+    {
+        "id":29,
+        "name":"Acarbose & Metformin",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":2901,
+                "brand":"Acmet",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2902,
+                "brand":"Acmet-DS",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2903,
+                "brand":"Acmet XR",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2904,
+                "brand":"Acmet-MR",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2905,
+                "brand":"Acmet-M",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2906,
+                "brand":"Acmet Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2907,
+                "brand":"Acmet Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2908,
+                "brand":"Acmet XR Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2909,
+                "brand":"Acmet MR Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2910,
+                "brand":"Acmet M Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2911,
+                "brand":"Acmet Gold Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2912,
+                "brand":"Acmet Gold XR",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2913,
+                "brand":"Acmet Gold MR",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2914,
+                "brand":"Acmet Gold M",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2915,
+                "brand":"Acmet Gold XR Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2916,
+                "brand":"Acmet Gold MR Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2917,
+                "brand":"Acmet Gold M Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2918,
+                "brand":"Acmet XR Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2919,
+                "brand":"Acmet MR Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2920,
+                "brand":"Acmet M Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2921,
+                "brand":"Acmet XR MR",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2922,
+                "brand":"Acmet XR M",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2923,
+                "brand":"Acmet MR M",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2924,
+                "brand":"Acmet XR MR Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2925,
+                "brand":"Acmet XR M Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2926,
+                "brand":"Acmet MR M Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2927,
+                "brand":"Acmet XR MR Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2928,
+                "brand":"Acmet XR M Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2929,
+                "brand":"Acmet MR M Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2930,
+                "brand":"Acmet XR MR Gold Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2931,
+                "brand":"Acmet XR M Gold Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2932,
+                "brand":"Acmet MR M Gold Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2933,
+                "brand":"Acmet Plus Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2934,
+                "brand":"Acmet DS Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2935,
+                "brand":"Acmet XR Plus Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2936,
+                "brand":"Acmet MR Plus Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2937,
+                "brand":"Acmet M Plus Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2938,
+                "brand":"Acmet DS Gold Plus",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2939,
+                "brand":"Acmet XR DS Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2940,
+                "brand":"Acmet MR DS Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            },
+            {
+                "id":2941,
+                "brand":"Acmet M DS Gold",
+                "price":50,
+                "uses":"Type-2 Diabetes Mellitus",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":30,
+        "name":"Adefovir & Lamivudine",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3001,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3002,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3003,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3004,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3005,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3006,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3007,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3008,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3009,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3010,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3011,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3012,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3013,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3014,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3015,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3016,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3017,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3018,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3019,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3020,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3021,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3022,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3023,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3024,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3025,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3026,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3027,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3028,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3029,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3030,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3031,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3032,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3033,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3034,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3035,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            },
+            {
+                "id":3036,
+                "brand":"Adefovir-Lamivudine",
+                "price":50,
+                "uses":"Hepatitis B Infection",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":31,
+        "name":"Alprazolam",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3101,
+                "brand":"Alzolam",
+                "price":50,
+                "uses":"Anxiety & Panic Disorder",
+                "image":""
+            },
+            {
+                "id":3102,
+                "brand":"Alzolam-XL",
+                "price":50,
+                "uses":"Anxiety & Panic Disorder",
+                "image":""
+            },
+            {
+                "id":3103,
+                "brand":"Alzolam-MR",
+                "price":50,
+                "uses":"Anxiety & Panic Disorder",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":32,
+        "name":"Alprazolam & Clonazepam",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3201,
+                "brand":"Alprazolam-Clonazepam",
+                "price":50,
+                "uses":"Anxiety & Panic Disorder",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":33,
+        "name":"Alprazolam & Sertraline",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3301,
+                "brand":"Alprazolam-Sertraline",
+                "price":50,
+                "uses":"Anxiety & Panic Disorder",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":34,
+        "name":"Amlodipine & Telmisartan",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3401,
+                "brand":"Amlosafe TA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3402,
+                "brand":"Amlokind TA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3403,
+                "brand":"Amlip-5T",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3404,
+                "brand":"Amlogard-5T",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":35,
+        "name":"Amlodipine & Rosuvastatin",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3501,
+                "brand":"Amlosafe RS",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension) & High Cholesterol",
+                "image":""
+            },
+            {
+                "id":3502,
+                "brand":"Amlokind RS",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension) & High Cholesterol",
+                "image":""
+            },
+            {
+                "id":3503,
+                "brand":"Amlip-5R",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension) & High Cholesterol",
+                "image":""
+            },
+            {
+                "id":3504,
+                "brand":"Amlogard-5R",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension) & High Cholesterol",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":36,
+        "name":"Amlodipine & Metoprolol",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3601,
+                "brand":"Amlosafe MB",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3602,
+                "brand":"Amlokind MB",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3603,
+                "brand":"Amlip-5M",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3604,
+                "brand":"Amlogard-5M",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":37,
+        "name":"Amlodipine & Valsartan",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3701,
+                "brand":"Amlosafe VA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3702,
+                "brand":"Amlokind VA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3703,
+                "brand":"Amlip-5V",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3704,
+                "brand":"Amlogard-5V",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":38,
+        "name":"Amlodipine & Olmesartan",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3801,
+                "brand":"Amlosafe OA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3802,
+                "brand":"Amlokind OA",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3803,
+                "brand":"Amlip-5O",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3804,
+                "brand":"Amlogard-5O",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":39,
+        "name":"Amlodipine & Hydrochlorothiazide",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":3901,
+                "brand":"Amlosafe H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3902,
+                "brand":"Amlokind H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3903,
+                "brand":"Amlip-5H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":3904,
+                "brand":"Amlogard-5H",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":40,
+        "name":"Amlodipine & Atenolol",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":4001,
+                "brand":"Amlosafe AN",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":4002,
+                "brand":"Amlokind AN",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":4003,
+                "brand":"Amlip-5AN",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":4004,
+                "brand":"Amlogard-5AN",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":41,
+        "name":"Amlodipine",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":4101,
+                "brand":"Amlosafe",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":4102,
+                "brand":"Amlokind",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":4103,
+                "brand":"Amlip-5",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            },
+            {
+                "id":4104,
+                "brand":"Amlogard-5",
+                "price":50,
+                "uses":"High Blood Pressure (Hypertension)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":42,
+        "name":"Amiodarone",
+        "image":"https://www.sanifyhealthcare.com/wp-content/uploads/2022/09/AFESLIN-1000-DUO.jpg",
+        "variants":[
+            {
+                "id":4201,
+                "brand":"Amiodarone",
+                "price":50,
+                "uses":"Irregular Heartbeat (Arrhythmia)",
+                "image":""
+            },
+            {
+                "id":4202,
+                "brand":"Amiodarone-200",
+                "price":50,
+                "uses":"Irregular Heartbeat (Arrhythmia)",
+                "image":""
+            }
+        ]
+    },
+    {
+        "id":43,
+        "name":"Lorazepam",
+        "image":"",
+        "variants":[
+            {
+                "id":4301,
+                "brand":"Lorazepam",
+                "price":50,
+                "uses":"Anxiety Disorder",
+                "image":""
+            },
+            {
+                "id":4302,
+                "brand":"Lorazepam-XL",
+                "price":50,
+                "uses":"Anxiety Disorder",
+                "image":""
+            },
+            {
+                "id":4303,
+                "brand":"Lorazepam-MR",
+                "price":50,
+                "uses":"Anxiety Disorder",
+                "image":""
+            }
+        ]
+    }        
+     
+]
