@@ -1,0 +1,44 @@
+
+@keyframes blinkColor {
+  /* text in banner in home */
+  0%, 100% {
+    color: #4bae73; /* Tailwind green-700 */
+  }
+  50% {
+    color: oklch(79.5% 0.184 86.047); /* Tailwind green-500 */
+  }
+  /* end */
+}
+
+/* call now btn in home */
+@keyframes blinkBtn {
+   0%, 100% {
+    background-color: #ecc94b;
+    color: rgb(54, 53, 52);
+  }
+  50% {
+    background-color: #d69e2e;
+    color: white;
+  }
+}
+/* end */
+
+@layer utilities {
+  .blinking-text1 {
+    animation: blinkColor 1.5s infinite;
+  }
+    .blinking-text2 {
+        animation: blinkColor 1.5s infinite;
+    }
+    .blinking-text3 {
+        animation: blinkColor 1.5s infinite;
+    }
+
+    /* call now btn in home */
+    .blink-btn {
+      animation: blinkBtn 1.5s infinite;
+    }
+    /* end */
+
+}
+

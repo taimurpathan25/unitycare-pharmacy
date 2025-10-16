@@ -7,7 +7,7 @@
         "price": 5.99,
         "stock": 100,
         "description": "Used to treat pain and fever.",
-        "image": "https://example.com/images/paracetamol.png"
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/IV/UY/CG/75459511/500mg-paracetamol-tablet.jpg"
     },
     {
         "id": 2,
@@ -16,7 +16,7 @@
         "price": 12.49,
         "stock": 50,
         "description": "Boosts immune system and overall health.",
-        "image": "https://example.com/images/vitamin_c.png"
+        "image": "https://www.bbassets.com/media/uploads/p/l/40323622_1-limcee-vitamin-c-chewable-tablet-500-mg-orange-flavour.jpg"
     },
     {
         "id": 3,
@@ -25,7 +25,7 @@
         "price": 8.99,
         "stock": 75,
         "description": "Soothes and moisturizes skin.",
-        "image": "https://example.com/images/aloe_vera_gel.png"
+        "image": "https://www.baidyanath.com/cdn/shop/files/Aloe_vera_Gel.jpg?v=1756109552"
     },
     {
         "id": 4,
@@ -34,7 +34,7 @@
         "price": 45.00,
         "stock": 20,
         "description": "Digital monitor for tracking blood pressure.",
-        "image": "https://example.com/images/blood_pressure_monitor.png"
+        "image": "https://images-cdn.ubuy.co.in/63bee9ef8a426310231f65a3-omron-bronze-blood-pressure-monitor.jpg"
     },
     {
         "id": 5,
@@ -43,7 +43,7 @@
         "price": 25.00,
         "stock": 30,
         "description": "Pre-filled pen for insulin administration.",
-        "image": "https://example.com/images/insulin_pen.png"
+        "image": "https://childrenwithdiabetes.com/wp-content/uploads/insulin_pen.jpg"
     },
     {
         "id": 6,
@@ -52,7 +52,7 @@
         "price": 6.49,
         "stock": 60,
         "description": "Relieves itching and inflammation.",
-        "image": "https://example.com/images/hydrocortisone_cream.png"
+        "image": "https://smarthealer.pk/wp-content/uploads/2024/09/hydrocortisone-cream.webp"
     },
     {
         "id": 7,
@@ -61,7 +61,7 @@
         "price": 15.99,
         "stock": 40,
         "description": "Comprehensive multivitamin for daily health.",
-        "image": "https://example.com/images/multivitamin_tablets.png"
+        "image": "https://m.media-amazon.com/images/I/813MgfDtkRL.jpg"
     },
     {
         "id": 8,
@@ -70,7 +70,7 @@
         "price": 14.99,
         "stock": 80,
         "description": "Hydrating moisturizer for all skin types.",
-        "image": "https://example.com/images/face_moisturizer.png"
+        "image": "https://m.media-amazon.com/images/I/61dbozbpXCL.jpg"
     },
     {
         "id": 9,
@@ -79,7 +79,7 @@
         "price": 10.00,
         "stock": 25,
         "description": "Quick and accurate temperature readings.",
-        "image": "https://example.com/images/digital_thermometer.png"
+        "image": "https://meditive.in/cdn/shop/files/MDT-02_5.jpg?v=1727088814"
     },
     {
         "id": 10,
@@ -88,16 +88,16 @@
         "price": 18.99,
         "stock": 55,
         "description": "Supports heart and brain health.",
-        "image": "https://example.com/images/omega3_fish_oil.png"
+        "image": "https://bbetter.co/cdn/shop/files/BBETTER_Omega3_IN_large.png?v=1756800678"
     },
     {
         "id": 11,
-        "name": "Antacid Tablets",
+        "name": "Antiacid Tablets",
         "category": "Medicine",
         "price": 7.49,
         "stock": 90,
         "description": "Relieves heartburn and indigestion.",
-        "image": "https://example.com/images/antacid_tablets.png"
+        "image": "https://statics.promofarma.com/static/promofarma/prod/product_images/mr/XJFE7N_it_IT_0.jpg"
     },
     {
         "id": 12,
@@ -106,7 +106,7 @@
         "price": 3.99,
         "stock": 150,
         "description": "Kills germs and bacteria on hands.",
-        "image": "https://example.com/images/hand_sanitizer.png"
+        "image": "https://m.media-amazon.com/images/I/41ne-HdxO2L._UF1000,1000_QL80_.jpg"
     },  
     {
         "id": 13,
@@ -115,7 +115,7 @@
         "price": 9.99,
         "stock": 70,
         "description": "Soothes cough and throat irritation.",
-        "image": "https://example.com/images/cough_syrup.png"
+        "image": "https://m.media-amazon.com/images/I/61DYD3i7WrL._UF1000,1000_QL80_.jpg"
     },
     {
         "id": 14,
@@ -124,7 +124,7 @@
         "price": 11.99,
         "stock": 65,
         "description": "Protects skin from harmful UV rays.",
-        "image": "https://example.com/images/sunscreen_lotion.png"
+        "image": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2137201/2025/4/14/ba44525b-3747-4954-b748-fe5ed63859ef1744628244438-Lakme-Matte-Sunscreen-SPF-50-PA-Niacinamide-with-UVAB-Protec-1.jpg"
     },
     {
         "id": 15,
@@ -133,7 +133,7 @@
         "price": 29.99,
         "stock": 15,
         "description": "Essential supplies for minor injuries.",
-        "image": "https://example.com/images/first_aid_kit.png"
+        "image": "https://acko-cms.ackoassets.com/first_aid_kit_stock_supplies_27ec1aba3c.jpg"
     },
     {
         "id": 16,
@@ -142,7 +142,7 @@
         "price": 13.49,
         "stock": 45,
         "description": "Supports bone health and strength.",
-        "image": "https://example.com/images/calcium_tablets.png"
+        "image": "https://www.lxir.in/wp-content/uploads/2024/02/LXIR-68.jpg"
     },
     {
         "id": 17,
@@ -151,7 +151,7 @@
         "price": 5.49,
         "stock": 85,
         "description": "Prevents infection in minor cuts and scrapes.",
-        "image": "https://example.com/images/antibiotic_ointment.png"
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jbd9qz10ki2izgaunrgh.jpg"
     },
     {
         "id": 18,
@@ -160,7 +160,7 @@
         "price": 35.00,
         "stock": 22,
         "description": "Measures blood sugar levels accurately.",
-        "image": "https://example.com/images/glucose_meter.png"
+        "image": "https://cdn01.pharmeasy.in/dam/products_otc/I14791/accu-chek-instant-s-glucometer-kit-with-free-10-strips-6.1-1726640112.jpg"
     },
     {
         "id": 19,

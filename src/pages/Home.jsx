@@ -124,21 +124,22 @@
 // export default Home;
 
 import React, { useEffect, useState } from "react";
-import { Search, Phone, Upload } from "lucide-react";
+import { Search, Phone, Upload, Dot, ShipIcon, Truck, Store, Headset, ShieldCheck } from "lucide-react";
 import axios from "axios";
 import { Link } from "react-router-dom";
 import { slugify } from "../utils/slugify";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import "../pages/css/Home.css";
 
 const Home = () => {
-  const CardSlider = () => {
+  const CardSlider = (slidesToShow, speed, designType) => {
     const settings = {
       dots: true,
       infinite: true,
-      speed: 800,
-      slidesToShow: 4, // Desktop (large screen)
+      speed,
+      slidesToShow, // Desktop (large screen)
       slidesToScroll: 1,
       autoplay: true,
       autoplaySpeed: 2500,
@@ -232,7 +233,8 @@ const Home = () => {
         <Slider {...settings}>
           {cards.map((card) => (
             <div key={card.id} className="p-3">
-              <div className="bg-white rounded-xl shadow-lg p-6 text-center">
+              {designType == 'style1' ? (
+<div className="bg-white rounded-xl shadow-lg p-6 text-center">
                 <Link to={card.link}>
                   <img
                     src={card.image}
@@ -243,6 +245,25 @@ const Home = () => {
                   <p className="text-gray-600">{card.text}</p>
                 </Link>
               </div>
+              
+              ) : (
+                <div className="relative overflow-hidden rounded-2xl shadow-md group cursor-pointer">
+                  <Link to={card.link}>
+                    <img
+                      src={card.image}
+                      alt={card.title}
+                      className="w-full h-[200px] object-cover transform group-hover:scale-105 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex flex-col justify-end p-4">
+                      <h2 className="text-white font-bold text-xl">
+                        {card.title}
+                      </h2>
+                      <p className="text-gray-200 text-sm">{card.text}</p>
+                    </div>
+                  </Link>
+                </div>
+              )}
+              
             </div>
           ))}
         </Slider>
@@ -262,8 +283,19 @@ const Home = () => {
             Fast, Reliable & Affordable Medicine Delivery — Right at Your
             Doorstep
           </p>
+          <div className="mt-5 flex items-center justify-center gap-3 text-xl font-bold">
+            <span className="blinking-text1 flex items-center justify-center">
+              <Dot /> See Health
+            </span>
+            <span className="blinking-text2 flex items-center justify-center">
+              <Dot /> Do Trust
+            </span>
+            <span className="blinking-text3 flex items-center justify-center">
+              <Dot /> Book Online Medicines
+            </span>
+          </div>
           {/* ✅ Search Bar Restored */}
-          <div className="mt-8 flex max-w-2xl mx-auto border-2 border-green-200 rounded-full overflow-hidden shadow-lg bg-white hover:shadow-xl transition">
+          <div className="mt-5 flex max-w-2xl mx-auto border-2 border-green-200 rounded-full overflow-hidden shadow-lg bg-white hover:shadow-xl transition">
             <input
               type="text"
               placeholder="🔍 Search medicines, health products..."
@@ -283,15 +315,15 @@ const Home = () => {
             </button>
             <a
               href="tel:+917618270346"
-              className="bg-yellow-500 hover:bg-yellow-600 text-white px-8 py-3 rounded-xl flex items-center gap-2 shadow-md font-medium transition"
+              className="blink-btn text-white px-8 py-3 rounded-xl flex items-center gap-2 shadow-md font-medium transition"
             >
               <Phone size={20} /> Call Now
             </a>
           </div>
         </section>
-        </div>
+      </div>
 
-        {/* <section className="m-10">
+      {/* <section className="m-10">
           <div className="heading">
             <h2 className="text-left font-bold text-4xl">Featured Products</h2>
           </div>
@@ -304,19 +336,129 @@ const Home = () => {
             <div><img src="" alt="Feature image" /></div>
           </div>
         </section> */}
+        
+        {/* order type services  */}
+      <section className="m-6 md:m-10 border-t-4 border-green-700 border-b-4 pt-10">
+  <div className="flex justify-between items-center gap-8 overflow-x-auto px-2 scrollbar-hide">
+    
+    {/* Free Shipping */}
+    <div className=" flex items-center gap-3 flex-shrink-0 min-w-[220px] sm:min-w-[250px] pb-10">
+      <Truck className="text-green-600 w-6 h-6 sm:w-8 sm:h-8 md:w-15 md:h-15 hover:scale-110 transition-all" />
+      <div>
+        <h1 className="text-sm sm:text-base md:text-2xl font-semibold">
+          Free Shipping
+        </h1>
+        <span className="text-gray-500 text-xs sm:text-sm">
+          If online order over ₹200
+        </span>
+      </div>
+    </div>
 
-        <section className="m-10">
-          <div className="heading">
-            <h2 className="text-left font-bold text-4xl">
-              Explore More Categories
-            </h2>
-          </div>
-          <CardSlider />
-        </section>
-      
+    {/* Easy Return */}
+    <div className=" flex items-center gap-3 flex-shrink-0 min-w-[220px] sm:min-w-[250px] pb-10">
+      <Store className="text-blue-600 w-6 h-6 sm:w-8 sm:h-8 md:w-15 md:h-15 hover:scale-110 transition-all" />
+      <div>
+        <h1 className="text-sm sm:text-base md:text-2xl font-semibold">
+          Easy Return
+        </h1>
+        <span className="text-gray-500 text-xs sm:text-sm">
+          Return within 7 days
+        </span>
+      </div>
+    </div>
+
+    {/* 24/7 Support */}
+    <div className=" flex items-center gap-3 flex-shrink-0 min-w-[220px] sm:min-w-[250px] pb-10">
+      <Headset className="text-purple-600 w-6 h-6 sm:w-8 sm:h-8 md:w-15 md:h-15 hover:scale-110 transition-all" />
+      <div>
+        <h1 className="text-sm sm:text-base md:text-2xl font-semibold">
+          24/7 Support
+        </h1>
+        <span className="text-gray-500 text-xs sm:text-sm">
+          Any time pharmacist help
+        </span>
+      </div>
+    </div>
+
+    {/* Secure Payment */}
+    <div className=" flex items-center gap-3 flex-shrink-0 min-w-[220px] sm:min-w-[250px] pb-10">
+      <ShieldCheck className="text-yellow-600 w-6 h-6 sm:w-8 sm:h-8 md:w-15 md:h-15 hover:scale-110 transition-all" />
+      <div>
+        <h1 className="text-sm sm:text-base md:text-2xl font-semibold">
+          Secure Payment
+        </h1>
+        <span className="text-gray-500 text-xs sm:text-sm">
+          100% Fast & Safe Payment
+        </span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+      <section className="m-10">
+        <div className="heading">
+          <h2 className="text-left font-bold text-4xl">
+            Explore More Categories
+          </h2>
+        </div>
+        {CardSlider(4, 800, 'style1')}
+      </section>
 
       {/* <SearchBar/> */}
-    </>
+
+
+
+      {/* How it works section */}
+      <section className="py-16 px-6 bg-white">
+        <div className="max-w-6xl mx-auto text-center">
+          <h2 className="text-3xl font-bold mb-6 text-green-700">
+            How It Works
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="p-6 border rounded-2xl shadow-sm hover:shadow-md transition bg-green-50">
+              <ShipIcon className="mx-auto mb-4 text-green-600 w-12 h-12" />
+              <h3 className="text-xl font-bold text-green-700">
+                1. Place Your Order
+              </h3>
+              <p className="text-gray-600 mt-2">
+                Browse our extensive catalog and add medicines to your cart.
+              </p>
+            </div>
+            <div className="p-6 border rounded-2xl shadow-sm hover:shadow-md transition bg-green-50">
+              <Truck className="mx-auto mb-4 text-green-600 w-12 h-12" />
+              <h3 className="text-xl font-bold text-green-700">
+                2. Fast Delivery
+              </h3>
+              <p className="text-gray-600 mt-2">
+                We process your order quickly and deliver it to your doorstep.
+              </p>
+            </div>
+            <div className="p-6 border rounded-2xl shadow-sm hover:shadow-md transition bg-green-50">
+              <Headset className="mx-auto mb-4 text-green-600 w-12 h-12" />
+              <h3 className="text-xl font-bold text-green-700">
+                3. Expert Support
+              </h3>
+              <p className="text-gray-600 mt-2">
+                Our pharmacists are available to assist you with any queries.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+<section className="m-10">
+        <div className="heading">
+          <h2 className="text-left font-bold text-4xl">
+            Explore More Categories
+          </h2>
+        </div>
+        {CardSlider(2, 1200, 'style2')}
+      </section>
+
+      </>
   );
 };
 

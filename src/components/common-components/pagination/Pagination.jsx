@@ -2,12 +2,12 @@ import React from "react";
 
 const Pagination = ({ currentPage, totalPages, onPageChange }) => {
   return (
-    <div className="flex justify-center items-center gap-2 mt-8">
+    <div className="flex flex-wrap justify-center items-center gap-2 mt-8">
       {/* Prev Button */}
       <button
         onClick={() => onPageChange(currentPage - 1)}
         disabled={currentPage === 1}
-        className="px-4 py-2 border rounded disabled:opacity-50 cursor-pointer"
+        className="px-2 py-1 border rounded-2xl disabled:opacity-50 cursor-pointer"
       >
         Prev
       </button>
@@ -17,7 +17,7 @@ const Pagination = ({ currentPage, totalPages, onPageChange }) => {
         <button
           key={i + 1}
           onClick={() => onPageChange(i + 1)}
-          className={`px-4 py-2 border rounded cursor-pointer ${
+          className={`px-3 py-1 border rounded-2xl cursor-pointer ${
             currentPage === i + 1
               ? "bg-gradient-to-b from-green-900/90 to-teal-800/80 text-white"
               : ""
@@ -31,7 +31,7 @@ const Pagination = ({ currentPage, totalPages, onPageChange }) => {
       <button
         onClick={() => onPageChange(currentPage + 1)}
         disabled={currentPage === totalPages}
-        className="px-4 py-2 border rounded disabled:opacity-50 cursor-pointer"
+        className="px-2 py-1 border rounded-2xl disabled:opacity-50 cursor-pointer"
       >
         Next
       </button>

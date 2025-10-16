@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import axios from "axios";
 import { slugify } from "../../../utils/slugify";
+import FilterSidebar from "../../../components/common-components/filteration/FilterSideBar";
 
 const MedicineList = () => {
   const { category,slug } = useParams(); // Only medicine slug
@@ -30,10 +31,16 @@ const MedicineList = () => {
   return (
     <>
     {/* <SearchBar/> */}
-    <div className="p-6">
-      <h2 className="text-2xl font-bold mb-6">{medicine.name} - All Brands</h2>
+    <section className="p-6">
+    <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+      <aside className="md:col-span-1 p-4 border rounded-lg shadow bg-white h-fit">
+      <FilterSidebar/>
+    </aside>
+
 
       {/* Variants */}
+      <div className="md:col-span-3">
+      <h2 className="text-2xl font-bold mb-6">{medicine.name} - All Brands</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
         {medicine.variants.map((variant) => (
           <Link
@@ -55,6 +62,7 @@ const MedicineList = () => {
             <p className="px-4 text-green-700 font-semibold">₹{variant.price}</p>
           </Link>
         ))}
+      </div>
       </div>
 
       {/* Related Medicines */}
@@ -81,6 +89,7 @@ const MedicineList = () => {
         </div>
       )} */}
     </div>
+    </section>
     </>
   );
 };

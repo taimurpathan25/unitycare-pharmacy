@@ -30,7 +30,7 @@ const AlphaNumericFilter = ({ data = [], onFiltered }) => {
           key={num}
           onClick={() => setFilter(num)}
           className={`px-3 py-1 border rounded transition cursor-pointer ${
-            filter === num ? "bg-green-600 text-white" : "hover:bg-green-600 hover:text-white"
+            filter === num ? "bg-gradient-to-b from-green-900/90 to-teal-800/80 text-white" : "hover:bg-gradient-to-b from-green-900/90 to-teal-800/80 hover:text-white"
           }`}
         >
           {num}
@@ -43,7 +43,7 @@ const AlphaNumericFilter = ({ data = [], onFiltered }) => {
           key={letter}
           onClick={() => setFilter(letter)}
           className={`px-3 py-1 border rounded transition cursor-pointer ${
-            filter === letter ? "bg-green-600 text-white" : "hover:bg-green-600 hover:text-white"
+            filter === letter ? "bg-gradient-to-b from-green-900/90 to-teal-800/80 text-white" : "hover:bg-gradient-to-b from-green-900/90 to-teal-800/80 hover:text-white"
           }`}
         >
           {letter}

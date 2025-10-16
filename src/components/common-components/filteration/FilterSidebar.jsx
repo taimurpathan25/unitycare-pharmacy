@@ -130,7 +130,7 @@ const FilterSidebar = () => {
       <div>
         <h3 className="font-semibold mb-2">Brand</h3>
         <div className="flex flex-col space-y-2 max-h-32 overflow-y-auto pr-2">
-          {["Samsung", "Apple", "Xiaomi", "OnePlus", "Cipla", "Sun Pharma"].map(
+          {["Cipla", "Mankind", "Xiaomi", "Zydus", "Pfizer", "Sun Pharma"].map(
             (brand) => (
               <label key={brand} className="flex items-center">
                 <input type="checkbox" className="mr-2" /> {brand}

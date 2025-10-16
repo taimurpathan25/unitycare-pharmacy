@@ -535,7 +535,7 @@ export default function Navbar() {
         //   : "bg-gradient-to-b from-green-900/90 to-teal-800/80"
         // }
     >
-      <nav className="mx-auto  px-4 sm:px-6 lg:px-8">
+      <nav className="mx-auto py-1 px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Brand */}
           <Link to="/" className="flex items-center gap-2">

@@ -53,15 +53,26 @@ import MedicineList from './pages/Medicines/medicine-listing-page/MedicineList'
 import MedicineDetails from './pages/Medicines/medicine-details-page/MedicineDetails'
 import Medicine from './pages/Medicine'
 import GlobalDetailsPage from './components/common-components/search-bar/GlobalDetailsPage'
+import Personalcare from './pages/Personalcare'
+import TopNavbar from './components/Header/Top-Navbar/TopNavbar'
 
 function App() {
   return (
     <BrowserRouter>
       <DynamicTitle/>
+      <TopNavbar/>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
         {/* Start main Menu Routes */}
+        <Route path='/all-medicines' element={<Medicine/>}/>
+        <Route path='/all-medicines/medicineDetail/:slug' element={<MedicineDetails />}/>
+        <Route path='/all-personal-care' element={<Personalcare/>}/>
+        <Route path='/all-personal-care/medicineDetail/:slug' element={<MedicineDetails />}/>
+        <Route path='/all-medicines' element={<Medicine/>}/>
+        <Route path='/all-medicines/medicineDetail/:slug' element={<MedicineDetails />}/>
+        <Route path='/all-medicines' element={<Medicine/>}/>
+        <Route path='/all-medicines/medicineDetail/:slug' element={<MedicineDetails />}/>
         <Route path='/all-medicines' element={<Medicine/>}/>
         <Route path='/all-medicines/medicineDetail/:slug' element={<MedicineDetails />}/>
         {/* End main Menu Routes */}
