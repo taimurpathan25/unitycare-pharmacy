@@ -42,7 +42,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
 import Header from './components/Header'
-import Footer from './components/Footer'
 import Home from './Pages/Home'
 import DynamicTitle from './DynamicTitle'
 import Navbar from './components/Header/Navbar/Navbar'
@@ -55,6 +54,7 @@ import Medicine from './pages/Medicine'
 import GlobalDetailsPage from './components/common-components/search-bar/GlobalDetailsPage'
 import Personalcare from './pages/Personalcare'
 import TopNavbar from './components/Header/Top-Navbar/TopNavbar'
+import Footer from './components/common-components/Footer/Footer'
 
 function App() {
   return (

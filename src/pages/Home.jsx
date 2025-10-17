@@ -132,6 +132,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import "../pages/css/Home.css";
+import SidebarTab from "../components/common-components/side-bar-tab/SidebarTab";
 
 const Home = () => {
   const CardSlider = (slidesToShow, speed, designType) => {
@@ -263,7 +264,6 @@ const Home = () => {
                   </Link>
                 </div>
               )}
-              
             </div>
           ))}
         </Slider>
@@ -458,6 +458,7 @@ const Home = () => {
         {CardSlider(2, 1200, 'style2')}
       </section>
 
+      <SidebarTab/>
       </>
   );
 };
